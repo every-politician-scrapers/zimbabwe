@@ -1,6 +1,7 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q19056184,President of Zimbabwe,Q954,Q954,,Q407950,1980-04-18,,,,President of Zimbabwe
 Q4261844,Vice President of Zimbabwe,Q954,Q954,,,1987-12-31,,,,Vice-President of Zimbabwe
+Q19056226,Prime Minister of Zimbabwe,Q954,Q954,,Q3284447,1980-04-18,,Q7243305,,Prime Minister of Zimbabwe
 Q5261075,Deputy Prime Minister of Zimbabwe,Q954,Q954,,,,,,,Deputy Prime Minister of Zimbabwe
 Q99228631,Defence Minister of Zimbabwe,Q954,,,,,,,,
 Q110197166,"Minister of Education, Sport and Culture",,Q954,,,,,,,
@@ -8,6 +9,7 @@ Q110197124,Minister of Energy and Power Development,,Q954,,,,,,,
 Q110197142,"Minister of the Environment, Climate Change, Tourism, and International Trade",Q954,Q954,,,,,,,
 Q56042032,Finance Minister,Q954,Q954,,,,,,,
 Q99228278,Foreign minister of Zimbabwe,Q954,,,,,,,,
+Q110197078,Minister of Health and Child Welfare,,Q954,,,,,,,
 Q110197100,"Minister of Higher Education, Science and Technology",,Q954,,,,,,,
 Q110197079,Minister of Home Affairs,,Q954,,,,,,,
 Q110197401,Minister of Industry and Commerce,Q954,Q954,,,,,,,

@@ -1,0 +1,158 @@
+{
+  "title": "Jacob Mudenda",
+  "pageID": 58308960,
+  "categories": [
+    "1949 births",
+    "Living people",
+    "20th-century Zimbabwean politicians",
+    "21st-century Zimbabwean politicians",
+    "Speakers of the National Assembly of Zimbabwe",
+    "ZANU–PF politicians",
+    "Zimbabwean lawyers",
+    "Zimbabwean educators",
+    "Provincial governors of Zimbabwe",
+    "University of South Africa alumni",
+    "University of Zimbabwe alumni",
+    "Members of the National Assembly of Zimbabwe"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jacob Francis Mudenda is the current Speaker of the National Assembly of Zimbabwe and a member of the Zimbabwe African National Union - Patriotic Front (ZANU-PF).",
+              "links": [
+                {
+                  "text": "Speaker",
+                  "type": "internal",
+                  "page": "Speaker (politics)"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly of Zimbabwe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Zimbabwe"
+                },
+                {
+                  "text": "Zimbabwe African National Union - Patriotic Front",
+                  "type": "internal",
+                  "page": "ZANU–PF"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jacob Francis Mudenda"
+                ]
+              }
+            },
+            {
+              "text": "A longtime schoolteacher and lawyer, Mudenda joined the Zimbabwe political scene after it gained independence from the British in 1980."
+            },
+            {
+              "text": "Mudenda is well known for his relationship with former Zimbabwe president, Robert Mugabe, along with the rise and fall of his political career after the Willowgate scandal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Robert Mugabe"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Zimbabwean politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2019",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jacob Mudenda"
+          },
+          "image": {
+            "text": "Jacob Mudenda 2019 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Jacob Mudenda in 2019."
+          },
+          "office1": {
+            "text": "Speaker of the National Assembly of Zimbabwe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Zimbabwe"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "31 July 2018"
+          },
+          "predecessor1": {
+            "text": "Lovemore Moyo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lovemore Moyo"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Jacob Francis Mudenda"
+          },
+          "birth_place": {
+            "text": "Zimbabwe"
+          },
+          "nationality": {
+            "text": "Zimbabwean"
+          },
+          "party": {
+            "text": "ZANU PF",
+            "links": [
+              {
+                "type": "internal",
+                "page": "ZANU PF"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Harare, Zimbabwe"
+          },
+          "education": {
+            "text": "Postgraduate Diploma in Law, Bachelor of Arts"
+          },
+          "alma_mater": {
+            "text": "University of Zimbabwe, University of South Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Zimbabwe"
+              },
+              {
+                "type": "internal",
+                "page": "University of South Africa"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Speaker of Parliament"
+          },
+          "profession": {
+            "text": "Lawyer"
+          }
+        }
+      ]
+    }
+  ]
+}

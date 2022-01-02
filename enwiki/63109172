@@ -1,0 +1,68 @@
+{
+  "title": "Mangaliso Ndlovu",
+  "pageID": 63109172,
+  "categories": [
+    "1980 births",
+    "Living people",
+    "Members of the National Assembly of Zimbabwe",
+    "ZANU–PF politicians",
+    "Government ministers of Zimbabwe",
+    "Industry ministers",
+    "Trade ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nqobizitha Mangaliso Ndlovu (born 16 November 1980) is a Zimbabwean parliamentarian and minister.",
+              "links": [
+                {
+                  "text": "Zimbabwean parliamentarian",
+                  "type": "internal",
+                  "page": "Parliament of Zimbabwe"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nqobizitha Mangaliso Ndlovu"
+                ]
+              }
+            },
+            {
+              "text": "He is affiliated with Zanu-PF and represents the constituency of Bulima East.",
+              "links": [
+                {
+                  "text": "Zanu-PF",
+                  "type": "internal",
+                  "page": "ZANU–PF"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed the Minister of Industry, Commerce and Enterprise Development after the 2018 election."
+            },
+            {
+              "text": "In November 2019, he was appointed Zimbabwe's Minister of Environment, Climate Change, Tourism and International Trade, replacing Prisca Mupfumira.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Prisca Mupfumira"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Zimbabwean parliamentarian and minister (born 1980)",
+          "template": "short description"
+        }
+      ]
+    }
+  ]
+}

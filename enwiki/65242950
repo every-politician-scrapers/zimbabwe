@@ -1,0 +1,76 @@
+{
+  "title": "Soda Zhemu",
+  "pageID": 65242950,
+  "categories": [
+    "1974 births",
+    "Living people",
+    "Members of the National Assembly of Zimbabwe",
+    "ZANU–PF politicians",
+    "Government ministers of Zimbabwe",
+    "Energy ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Soda Zhemu (born 4 June 1974) is a Zimbabwean politician, member of parliament and cabinet minister.",
+              "links": [
+                {
+                  "text": " member of parliament",
+                  "type": "internal",
+                  "page": "Parliament of Zimbabwe"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Soda Zhemu"
+                ]
+              }
+            },
+            {
+              "text": "Zhemu is a member of the ruling Zanu-PF party and represents the constituency of Muzarabani North.",
+              "links": [
+                {
+                  "text": "Zanu-PF",
+                  "type": "internal",
+                  "page": "ZANU–PF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In August 2020, Zhemu was appointed as the Minister of Energy and Power Development, replacing Fortune Chasi who was fired by President Emmerson Mnangagwa for conduct that \"had become incompatible with the President’s expectations.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fortune Chasi"
+                },
+                {
+                  "text": "President Emmerson Mnangagwa",
+                  "type": "internal",
+                  "page": "Emmerson Mnangagwa"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Soda Zhemu - 2021 (cropped).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Soda_Zhemu_-_2021_(cropped).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Soda_Zhemu_-_2021_(cropped).jpg",
+          "caption": "Soda Zhemu in 2021",
+          "links": []
+        }
+      ]
+    }
+  ]
+}

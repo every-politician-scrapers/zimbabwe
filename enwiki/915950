@@ -1,0 +1,671 @@
+{
+  "title": "Kirsty Coventry",
+  "pageID": 915950,
+  "categories": [
+    "1983 births",
+    "Living people",
+    "Alumni of Dominican Convent High School",
+    "Auburn Tigers women's swimmers",
+    "Olympic gold medalists for Zimbabwe",
+    "Olympic silver medalists for Zimbabwe",
+    "Olympic bronze medalists for Zimbabwe",
+    "Olympic swimmers of Zimbabwe",
+    "Sportspeople from Harare",
+    "Swimmers at the 2000 Summer Olympics",
+    "Swimmers at the 2004 Summer Olympics",
+    "Swimmers at the 2008 Summer Olympics",
+    "Swimmers at the 2012 Summer Olympics",
+    "Swimmers at the 2016 Summer Olympics",
+    "World record setters in swimming",
+    "Zimbabwean expatriates in the United States",
+    "Zimbabwean female butterfly swimmers",
+    "Zimbabwean people of British descent",
+    "Swimmers at the 1998 Commonwealth Games",
+    "Swimmers at the 2002 Commonwealth Games",
+    "Commonwealth Games gold medallists for Zimbabwe",
+    "Zimbabwean female backstroke swimmers",
+    "White Zimbabwean sportspeople",
+    "Zimbabwean female medley swimmers",
+    "Olympic bronze medalists in swimming",
+    "Zimbabwean female freestyle swimmers",
+    "World Aquatics Championships medalists in swimming",
+    "International Olympic Committee members",
+    "Medalists at the FINA World Swimming Championships (25 m)",
+    "Medalists at the 2008 Summer Olympics",
+    "Medalists at the 2004 Summer Olympics",
+    "Olympic gold medalists in swimming",
+    "Olympic silver medalists in swimming",
+    "Commonwealth Games medallists in swimming",
+    "African Games gold medalists for Zimbabwe",
+    "African Games medalists in swimming",
+    "African Games silver medalists for Zimbabwe",
+    "African Games bronze medalists for Zimbabwe",
+    "Competitors at the 2007 All-Africa Games",
+    "Competitors at the 2011 All-Africa Games",
+    "Competitors at the 2015 African Games",
+    "Sportsperson-politicians",
+    "Zimbabwean female breaststroke swimmers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kirsty Leigh Coventry Seward (born 16 September 1983) is the current Minister of Youth, Sport, Arts and Recreation in the Cabinet of Zimbabwe as of September 2018.",
+              "links": [
+                {
+                  "text": "Minister of Youth, Sport, Arts and Recreation",
+                  "type": "internal",
+                  "page": "Ministry of Sport, Arts and Recreation (Zimbabwe)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Zimbabwe"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kirsty Leigh Coventry Seward"
+                ]
+              }
+            },
+            {
+              "text": "She is a Zimbabwean politician, former Olympic swimmer and world record holder, and the most decorated Olympian from Africa.",
+              "links": [
+                {
+                  "text": "Olympic",
+                  "type": "internal",
+                  "page": "Olympic games"
+                }
+              ]
+            },
+            {
+              "text": "She is a member of the International Olympic Committee (IOC) and in early 2018, was elected the Chairperson of the IOC Athletes' Commission, the body that represents all Olympic athletes worldwide.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "International Olympic Committee"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Coventry attended and swam competitively for Auburn University in Alabama, in the United States.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Auburn University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alabama"
+                }
+              ]
+            },
+            {
+              "text": "At the 2004 Summer Olympics, in Athens, Greece, Coventry won three Olympic medals: a gold, a silver, and a bronze, while in the 2008 Summer Olympics in Beijing she won four medals: a gold and three silver.",
+              "links": [
+                {
+                  "text": "2004 Summer Olympics",
+                  "type": "internal",
+                  "page": "2004 Summer Olympics"
+                },
+                {
+                  "type": "internal",
+                  "page": "Athens, Greece"
+                },
+                {
+                  "text": "2008 Summer Olympics",
+                  "type": "internal",
+                  "page": "2008 Summer Olympics"
+                },
+                {
+                  "type": "internal",
+                  "page": "Beijing"
+                }
+              ]
+            },
+            {
+              "text": "She was subsequently described by Paul Chingoka, head of the Zimbabwe Olympic Committee, as \"our national treasure\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zimbabwe Olympic Committee"
+                }
+              ]
+            },
+            {
+              "text": "Zimbabwean President Robert Mugabe called her \"a golden girl,\" and awarded her US$100,000 in cash for her 2008 Olympic performance.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Robert Mugabe"
+                },
+                {
+                  "text": "US$",
+                  "type": "internal",
+                  "page": "United States dollar"
+                }
+              ]
+            },
+            {
+              "text": "In 2016, Coventry retired from swimming after her fifth Olympics, having won the joint-most individual medals in women's swimming in Olympic history."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Zimbabwean swimmer",
+          "template": "short description"
+        },
+        {
+          "date": "November 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1983",
+          "month": "9",
+          "day": "16",
+          "template": "birth date and age"
+        },
+        {
+          "template": "zim"
+        },
+        {
+          "m": "1.76",
+          "precision": "0",
+          "template": "height"
+        },
+        {
+          "list": [
+            "Women's swimming"
+          ],
+          "template": "medalsport"
+        },
+        {
+          "list": [
+            "Zimbabwe"
+          ],
+          "template": "medalcountry"
+        },
+        {
+          "list": [
+            "Olympic Games"
+          ],
+          "template": "medalcompetition"
+        },
+        {
+          "list": [
+            "2004 Athens",
+            "200 m backstroke"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2008 Beijing",
+            "200 m backstroke"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2004 Athens",
+            "100 m backstroke"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "2008 Beijing",
+            "100 m backstroke"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "2008 Beijing",
+            "200 m medley"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "2008 Beijing",
+            "400 m medley"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "2004 Athens",
+            "200 m medley"
+          ],
+          "template": "medalbronze"
+        },
+        {
+          "list": [
+            "World Championships (LC)"
+          ],
+          "template": "medalcompetition"
+        },
+        {
+          "list": [
+            "2005 Montreal",
+            "100 m backstroke"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2005 Montreal",
+            "200 m backstroke"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2009 Rome",
+            "200 m backstroke"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2005 Montreal",
+            "200 m medley"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "2005 Montreal",
+            "400 m medley"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "2007 Melbourne",
+            "200 m backstroke"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "2007 Melbourne",
+            "200 m medley"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "2009 Rome",
+            "400 m medley"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "World Championships (SC)"
+          ],
+          "template": "medalcompetition"
+        },
+        {
+          "list": [
+            "2008 Manchester",
+            "400 m medley"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2008 Manchester",
+            "100 m backstroke"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2008 Manchester",
+            "200 m backstroke"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2008 Manchester",
+            "200 m medley"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2008 Manchester",
+            "100 m medley"
+          ],
+          "template": "medalbronze"
+        },
+        {
+          "list": [
+            "Commonwealth Games"
+          ],
+          "template": "medalcompetition"
+        },
+        {
+          "list": [
+            "2002 Manchester",
+            "200 m medley"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "All-Africa Games"
+          ],
+          "template": "medalcompetition"
+        },
+        {
+          "list": [
+            "2007 Algiers",
+            "50 m freestyle"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2007 Algiers",
+            "800 m freestyle"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2007 Algiers",
+            "50 m backstroke"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2007 Algiers",
+            "100 m backstroke"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2007 Algiers",
+            "200 m backstroke"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2007 Algiers",
+            "200 m medley"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2007 Algiers",
+            "400 m medley"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2011 Maputo",
+            "100 m backstroke"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2011 Maputo",
+            "200 m backstroke"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2011 Maputo",
+            "200 m medley"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2011 Maputo",
+            "400 m medley"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2015 Brazzaville",
+            "100 m backstroke"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2015 Brazzaville",
+            "200 m backstroke"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2015 Brazzaville",
+            "200 m medley"
+          ],
+          "template": "medalgold"
+        },
+        {
+          "list": [
+            "2007 Algiers",
+            "100 m breaststroke"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "2007 Algiers",
+            "4×100 m medley"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "2007 Algiers",
+            "4×200 m freestyle"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "2011 Maputo",
+            "100 m butterfly"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "2011 Maputo",
+            "4×100 m medley"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "2011 Maputo",
+            "4×100 m freestyle"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "2011 Maputo",
+            "4×200 m freestyle"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "list": [
+            "2015 Brazzaville",
+            "4×100 m mixed medley"
+          ],
+          "template": "medalbronze"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kirsty Coventry"
+          },
+          "image": {
+            "text": "File:2018-10-17 Boxing lightweight Boys&#039; –60 kg at 2018 Summer Youth Olympics – Victory ceremony (Martin Rulsch) 2.jpg"
+          },
+          "caption": {
+            "text": "Coventry at the 2018 Summer Youth Olympics",
+            "links": [
+              {
+                "text": "2018 Summer Youth Olympics",
+                "type": "internal",
+                "page": "2018 Summer Youth Olympics"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Youth, Sport, Arts and Recreation",
+            "links": [
+              {
+                "text": "Minister of Youth, Sport, Arts and Recreation",
+                "type": "internal",
+                "page": "Ministry of Sport, Arts and Recreation (Zimbabwe)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Emmerson Mnangagwa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emmerson Mnangagwa"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 September 2018"
+          },
+          "deputy": {
+            "text": "Yeukai Simbanegavi"
+          },
+          "predecessor": {
+            "text": "Kazembe Kazembe Sithembiso Nyoni"
+          },
+          "birth_name": {
+            "text": "Kirsty Leigh Coventry"
+          },
+          "birth_date": {
+            "text": "September 16, 1983"
+          },
+          "birth_place": {
+            "text": "Harare, Zimbabwe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Harare"
+              },
+              {
+                "type": "internal",
+                "page": "Zimbabwe"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Tyrone Seward"
+          },
+          "alma_mater": {
+            "text": "Auburn University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Auburn University"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent (politician)"
+              }
+            ]
+          }
+        },
+        {
+          "height": {
+            "text": "1.76m"
+          },
+          "weight": {
+            "text": "64 kg"
+          },
+          "website": {
+            "text": "KirstyCoventry.com"
+          },
+          "strokes": {
+            "text": "Backstroke, Individual Medley",
+            "links": [
+              {
+                "text": "Backstroke",
+                "type": "internal",
+                "page": "backstroke swimming"
+              },
+              {
+                "text": "Individual Medley",
+                "type": "internal",
+                "page": "Medley swimming"
+              }
+            ]
+          },
+          "club": {
+            "text": "Longhorn Aquatics"
+          },
+          "collegeteam": {
+            "text": "Auburn University",
+            "links": [
+              {
+                "text": "Auburn University",
+                "type": "internal",
+                "page": "Auburn Tigers swimming and diving"
+              }
+            ]
+          },
+          "coach": {
+            "text": "Dean Price, Kim Brackin, David Marsh",
+            "links": [
+              {
+                "text": "David Marsh",
+                "type": "internal",
+                "page": "David Marsh (swimming coach)"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

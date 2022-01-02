@@ -1,0 +1,50 @@
+{
+  "title": "Sekai Nzenza",
+  "pageID": 30863116,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Zimbabwean writers",
+    "Zimbabwean expatriates in England",
+    "Zimbabwean expatriates in Australia",
+    "University of Melbourne alumni",
+    "20th-century Zimbabwean writers",
+    "20th-century Zimbabwean women writers",
+    "21st-century Zimbabwean writers",
+    "21st-century Zimbabwean women writers",
+    "Zimbabwean politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sekai Nzenza is a Zimbabwean writer, cultural critic and politician.",
+              "links": [
+                {
+                  "text": "Zimbabwean",
+                  "type": "internal",
+                  "page": "Zimbabwe"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sekai Nzenza"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "November 2019",
+          "template": "use dmy dates"
+        }
+      ]
+    }
+  ]
+}

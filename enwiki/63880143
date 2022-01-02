@@ -1,0 +1,212 @@
+{
+  "title": "Mabel Chinomona",
+  "pageID": 63880143,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "20th-century Zimbabwean politicians",
+    "21st-century Zimbabwean politicians",
+    "Members of the National Assembly of Zimbabwe",
+    "Government ministers of Zimbabwe",
+    "People from Mashonaland East Province",
+    "Presidents of the Senate of Zimbabwe",
+    "ZANU–PF politicians",
+    "Zimbabwean guerrillas"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mabel Memory Chinomona (born 21 January 1958) is a Zimbabwean politician who is the current president of the Senate of Zimbabwe.",
+              "links": [
+                {
+                  "text": "Zimbabwean",
+                  "type": "internal",
+                  "page": "Zimbabwe"
+                },
+                {
+                  "text": "president of the Senate of Zimbabwe",
+                  "type": "internal",
+                  "page": "List of presidents of the Senate of Zimbabwe"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mabel Memory Chinomona"
+                ]
+              }
+            },
+            {
+              "text": "Previously, she served as deputy speaker of the National Assembly from 2013 to 2018, and as MP for Mutoko North until her election as senate president in 2018.",
+              "links": [
+                {
+                  "text": "deputy speaker of the National Assembly",
+                  "type": "internal",
+                  "page": "List of Speakers of the National Assembly of Zimbabwe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mutoko North"
+                }
+              ]
+            },
+            {
+              "text": "She has also served as secretary of the ZANU–PF Women's League since 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "ZANU–PF Women's League"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Zimbabwean politician",
+          "template": "short description"
+        },
+        {
+          "year": "1958",
+          "month": "01",
+          "day": "21",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mabel Chinomona"
+          },
+          "termend2": {
+            "text": "2018",
+            "number": 2018
+          },
+          "successor3": {
+            "text": "Rambidzai Nyabote",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rambidzai Nyabote"
+              }
+            ]
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "termstart3": {
+            "text": "3 September 2013"
+          },
+          "termend3": {
+            "text": "2018",
+            "number": 2018
+          },
+          "office3": {
+            "text": "Member of the National Assembly of Zimbabwe for Mutoko North",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Zimbabwe"
+              },
+              {
+                "type": "internal",
+                "page": "Mutoko North"
+              }
+            ]
+          },
+          "2blankname2": {
+            "text": "Speaker",
+            "links": [
+              {
+                "text": "Speaker",
+                "type": "internal",
+                "page": "List of Speakers of the National Assembly of Zimbabwe"
+              }
+            ]
+          },
+          "2namedata2": {
+            "text": "Jacob Mudenda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacob Mudenda"
+              }
+            ]
+          },
+          "office1": {
+            "text": "President of the Senate of Zimbabwe",
+            "links": [
+              {
+                "text": "President of the Senate of Zimbabwe",
+                "type": "internal",
+                "page": "List of presidents of the Senate of Zimbabwe"
+              }
+            ]
+          },
+          "termstart2": {
+            "text": "3 September 2013"
+          },
+          "office2": {
+            "text": "Deputy Speaker of the National Assembly of Zimbabwe",
+            "links": [
+              {
+                "text": "Deputy Speaker of the National Assembly of Zimbabwe",
+                "type": "internal",
+                "page": "List of Speakers of the National Assembly of Zimbabwe"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 21, 1958"
+          },
+          "party": {
+            "text": "ZANU–PF",
+            "links": [
+              {
+                "type": "internal",
+                "page": "ZANU–PF"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Mike Nyambuya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mike Nyambuya"
+              }
+            ]
+          },
+          "termstart1": {
+            "text": "11 September 2018"
+          },
+          "predecessor1": {
+            "text": "Edna Madzongwe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edna Madzongwe"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "David Chapfika",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Chapfika"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

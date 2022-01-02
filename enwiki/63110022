@@ -1,0 +1,73 @@
+{
+  "title": "Monica Mutsvangwa",
+  "pageID": 63110022,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Government ministers of Zimbabwe",
+    "Women government ministers of Zimbabwe",
+    "21st-century Zimbabwean politicians",
+    "21st-century women politicians",
+    "ZANU–PF politicians",
+    "Members of the Senate of Zimbabwe"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Monica Mutsvangwa is Zimbabwe's Minister of Information, Publicity and Broadcasting Services.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zimbabwe"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Monica Mutsvangwa"
+                ]
+              }
+            },
+            {
+              "text": "She has held cabinet roles in both the Robert Mugabe government and the Emmerson Mnangagwa government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Robert Mugabe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Emmerson Mnangagwa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She has been active in Zimbabwe's politics since 2002 when she ran as a councillor in Harare's municipal elections."
+            },
+            {
+              "text": "She is affiliated with Zanu-PF.",
+              "links": [
+                {
+                  "text": "Zanu-PF",
+                  "type": "internal",
+                  "page": "ZANU–PF"
+                }
+              ]
+            },
+            {
+              "text": "In Robert Mugabe's government, she served as the Deputy Minister of Information, Media and Broadcasting Services and the Deputy Minister Macro-Economic Planning and Investment Promotion."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

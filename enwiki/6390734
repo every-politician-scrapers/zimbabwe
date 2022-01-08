@@ -425,7 +425,7 @@
             "text": "Emmerson Mnangagwa"
           },
           "image": {
-            "text": "Emmerson Mnangagwa Official Portrait (cropped).jpg"
+            "text": "Emmerson Mnangagwa (2019-01-15).jpg"
           },
           "office": {
             "text": "3rd President of Zimbabwe",
@@ -905,6 +905,9 @@
           },
           "signature": {
             "text": "Emmerson Mnangagwa signature.png"
+          },
+          "caption": {
+            "text": "Mnangagwa in 2019"
           }
         }
       ]

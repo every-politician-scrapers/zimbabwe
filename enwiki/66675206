@@ -32,7 +32,12 @@
                   "type": "internal",
                   "page": "Ministry of Foreign Affairs (Zimbabwe)"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Frederick Musiiwa Makamure Shava"
+                ]
+              }
             },
             {
               "text": "Prior to his appointment, he served as Zimbabwe's representative to the United Nations where he was the President of the UN Economic and Social Affairs Council.",

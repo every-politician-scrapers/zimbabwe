@@ -1,0 +1,17 @@
+id,name,relationship,relative,relativename
+Q10707,Robert Mugabe,child,Q106342677,Michael Nhamodzenyika Mugabe
+Q10707,Robert Mugabe,child,Q106342682,Chatunga Bellarmine Mugabe
+Q10707,Robert Mugabe,child,Q106342688,Robert Peter Mugabe Jr.
+Q10707,Robert Mugabe,child,Q16233420,Bona Mugabe
+Q10707,Robert Mugabe,father,Q106342703,Gabriel Mugabe Matibiri
+Q10707,Robert Mugabe,mother,Q106342702,Amai Bona Mugabe
+Q10707,Robert Mugabe,relative,Q7167845,Perence Shiri
+Q10707,Robert Mugabe,sibling,Q2209549,Sabina Mugabe
+Q10707,Robert Mugabe,spouse,Q453364,Grace Mugabe
+Q10707,Robert Mugabe,spouse,Q465908,Sally Mugabe
+Q510523,Emmerson Mnangagwa,spouse,Q43962933,Auxillia Mnangagwa
+Q57762,Morgan Tsvangirai,spouse,Q7648475,Susan Tsvangirai
+Q7167845,Perence Shiri,relative,Q10707,Robert Mugabe
+Q7167845,Perence Shiri,relative,Q6131292,James Chikerema
+Q85118775,Monica Mutsvangwa,spouse,Q43266691,Christopher Mutsvangwa
+Q981736,Joice Mujuru,spouse,Q4305770,Solomon Mujuru

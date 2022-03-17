@@ -1,5 +1,7 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
 ,Q8071969,Zimbabwe Cabinet of 2008,2008-01-01,9,,,2008-01-01,9,,,,,,,,,,
 ,Q8072014,Zimbabwe Temporary Cabinet of 2009,2009-01-01,9,,,2009-01-01,9,,,,,,,,,,
-,Q4616828,2010 Cabinet of the Zimbabwe Government of National Unity,2010-01-01,9,,,2018-01-01,9,,,Q8072014,Zimbabwe Temporary Cabinet of 2009,Q60785385,Second Mnangagwa cabinet,,,,
-,Q60785385,Second Mnangagwa cabinet,2018-09-10,11,,,,,,,,,,,,,,
+,Q8071986,Zimbabwe Government of National Unity of 2009,2009-02-13,11,,,2010-06-01,10,,,,,Q4616828,2010 Cabinet of the Zimbabwe Government of National Unity,,,,
+,Q4616828,2010 Cabinet of the Zimbabwe Government of National Unity,2010-06-01,10,,,2018-09-01,10,,,Q8071986,Zimbabwe Government of National Unity of 2009,Q111262082,First Mnangagwa cabinet,,,,
+,Q111262082,First Mnangagwa cabinet,2017-12-01,11,,,2018-09-10,11,,,Q4616828,2010 Cabinet of the Zimbabwe Government of National Unity,Q60785385,Second Mnangagwa cabinet,,,,
+,Q60785385,Second Mnangagwa cabinet,2018-09-10,11,,,,,,,Q111262082,First Mnangagwa cabinet,,,,,,

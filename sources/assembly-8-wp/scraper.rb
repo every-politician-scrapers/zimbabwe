@@ -28,7 +28,7 @@ class RepList < Scraped::HTML
       name_link.attr('wikidata')
     end
 
-    field :itemLabel do
+    field :name do
       name_link.attr('title').gsub(/\(.*?\)/, '').tidy
     end
 

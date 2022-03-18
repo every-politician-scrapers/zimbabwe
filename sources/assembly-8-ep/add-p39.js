@@ -9,13 +9,23 @@ module.exports = (id, party, startdate, enddate) => {
   if(startdate) qualifier['P580']  = startdate
   if(enddate)   qualifier['P582']  = enddate
 
+  refs = { }
+  if(meta.source) {
+    var wpref = /wikipedia.org/;
+    if (wpref.test(meta.source)) {
+      refs['P4656'] = meta.source
+    } else {
+      refs['P854'] = meta.source
+    }
+  }
+
   return {
     id,
     claims: {
       P39: {
         value: meta.position,
         qualifiers: qualifier,
-        references: { P854: meta.source }
+        references: refs,
       }
     }
   }

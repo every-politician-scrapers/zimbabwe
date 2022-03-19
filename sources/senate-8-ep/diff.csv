@@ -78,17 +78,13 @@
 ->,Q16866539->NULL,Simon K. Moyo,Q1910161,male
 ---,Q111283861,Sindalizwe Dube,,
 ->,Q111283588->NULL,Siphiwe Ncube,Q1146616,female
-+++,,Sithembile Mlotshwa,Q1146616,female
----,Q111283862,Sithembile Mlotshwa,Q1146616,
----,Q111283577,Sithembile Mlotshwa,Q1146616,female
+->,Q111283577->NULL,Sithembile Mlotshwa,Q1146616,female
 ->,Q7660136->NULL,Sydney T. Sekeramayi,Q1910161,male
 ---,Q111283863,Tambudzani Mohadi,Q1910161,
 ->,Q111283590->NULL,Tapera Machingaifa,Q1910161,male
 ->,Q111283591->NULL,Thokozani Khupe,Q1146616,female
 ->,Q111283592->NULL,Thokozile A. Mathuthu,Q1910161,female
-+++,,Tholakele Khumalo,Q15980776,female
----,Q111283864,Tholakele Khumalo,Q15980776,
----,Q111283556,Tholakele Khumalo,Q15980776,female
+->,Q111283556->NULL,Tholakele Khumalo,Q15980776,female
 ---,Q111283865,Try Manyepa,,
 ->,Q111283594->NULL,Tsitsi V. Muzenda,Q1910161,female
 ->,Q111283595->NULL,Violet Moeketsi,Q1146616,female

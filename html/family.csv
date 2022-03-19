@@ -10,6 +10,12 @@ Q10707,Robert Mugabe,sibling,Q2209549,Sabina Mugabe
 Q10707,Robert Mugabe,spouse,Q453364,Grace Mugabe
 Q10707,Robert Mugabe,spouse,Q465908,Sally Mugabe
 Q43266691,Christopher Mutsvangwa,spouse,Q85118775,Monica Mutsvangwa
+Q43402860,Patrick Zhuwao,child,Q63456225,Jason Zhuwao
+Q43402860,Patrick Zhuwao,mother,Q2209549,Sabina Mugabe
+Q43402860,Patrick Zhuwao,relative,Q106342702,Amai Bona Mugabe
+Q43402860,Patrick Zhuwao,relative,Q106342703,Gabriel Mugabe Matibiri
+Q43402860,Patrick Zhuwao,relative,Q10707,Robert Mugabe
+Q43402860,Patrick Zhuwao,spouse,Q43711491,Beauty Zhuwao
 Q43962933,Auxillia Mnangagwa,spouse,Q510523,Emmerson Mnangagwa
 Q453364,Grace Mugabe,child,Q16233420,Bona Mugabe
 Q453364,Grace Mugabe,spouse,Q10707,Robert Mugabe

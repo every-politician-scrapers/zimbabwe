@@ -2,22 +2,23 @@ const fs = require('fs');
 let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
-module.exports = (id, party, startdate, enddate) => {
+module.exports = (id, label, party) => {
   qualifier = { }
   if(meta.term) qualifier['P2937'] = meta.term.id
   if(party)     qualifier['P4100'] = party
-  if(startdate) qualifier['P580']  = startdate
-  if(enddate)   qualifier['P582']  = enddate
 
-  refs = { }
+  reference = {}
+
   if(meta.source) {
     var wpref = /wikipedia.org/;
     if (wpref.test(meta.source)) {
-      refs['P4656'] = meta.source
+      reference['P4656'] = meta.source
     } else {
-      refs['P854'] = meta.source
+      reference['P854'] = meta.source
     }
   }
+  reference['P813'] = new Date().toISOString().split('T')[0]
+  reference['P1810'] = label
 
   return {
     id,
@@ -25,7 +26,7 @@ module.exports = (id, party, startdate, enddate) => {
       P39: {
         value: meta.position,
         qualifiers: qualifier,
-        references: refs,
+        references: reference,
       }
     }
   }

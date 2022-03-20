@@ -164,7 +164,7 @@
 ->,Q111281696->NULL,Margaret Matienga,Q1146616,female
 ->,Q111281698->NULL,Martin Khumalo,Q1910161,male
 ---,Q111282881,Masaiti Muzungu,Q1146616,
-->,Q97816798->NULL,Masango Matambanadzo,NULL->Q1910161,male
+->,Q97816798->NULL,Masango Matambanadzo,Q1910161,male
 ->,Q111281700->NULL,Mathias S. Ndlovu,Q1910161,male
 ->,Q111281701->NULL,Mathias Tongofa,Q1910161,male
 ->,Q111281702->NULL,Melenia Mahiya,Q1910161,female

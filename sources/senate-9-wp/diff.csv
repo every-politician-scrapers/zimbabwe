@@ -1,79 +1,73 @@
 @@,item,name,party,partylabel
-+++,,Address Matirira,Q1910161,ZANU–PF
-+++,,Alice Chimbudzi,Q1910161,ZANU–PF
-+++,,Alice Dube,Q1910161,ZANU–PF
-+++,,Alma Mkwebu,Q1910161,ZANU–PF
-+++,,Angeline Tongogara,Q1910161,ZANU–PF
-+++,,Annias Mapungwana,,
-+++,,Aplonia Munzverengwi,Q1910161,ZANU–PF
-+++,Q107534597,Bekithemba Mpofu,Q85786782,MDC
-+++,,Bybit Tsomondo,Q1910161,ZANU–PF
-+++,Q5091394,Chenhanho Chimutengwende,Q1910161,ZANU–PF
+->,Q111291734->NULL,Address Matirira,Q1910161,ZANU–PF
+->,Q111283548->NULL,Alice Chimbudzi,Q1910161,ZANU–PF
+->,Q111291735->NULL,Alice Dube,Q1910161,ZANU–PF
+->,Q111291736->NULL,Alma Mkwebu,Q1910161,ZANU–PF
+->,Q111291737->NULL,Angeline Tongogara,Q1910161,ZANU–PF
+->,Q111291738->NULL,Annias Mapungwana,,
+->,Q111291739->NULL,Aplonia Munzverengwi,Q1910161,ZANU–PF
+->,Q107534597,Bekithemba Mpofu,Q85786782,NULL->MDC
+->,Q111291740->NULL,Bybit Tsomondo,Q1910161,ZANU–PF
 +++,,Chitanga,,
-+++,,Christine Rambanepasi,Q85786782,MDC
+->,Q111291741->NULL,Christine Rambanepasi,Q85786782,NULL->MDC
 +++,,Chundu,,
-+++,,Clara Shumba,Q1910161,ZANU–PF
-+++,Q5238373,David Parirenyatwa,Q1910161,ZANU–PF
-+++,,Douglas Mwonzora,Q85786782,MDC
-+++,Q5360562,Elias Mudzuri,Q85786782,MDC
-+++,,Ellen Gwaradzimba,Q1910161,ZANU–PF
-+++,,Esnath Rwambiwa,Q85786782,MDC
-+++,,Fortune Charumbira,,
-+++,,Gideon Shoko,Q85786782,MDC
-+++,,Helen Zivira,Q85786782,MDC
-+++,,Herbert Sinampande,Q85786782,MDC
-+++,,Jane Chifamba,Q85786782,MDC
-+++,,Josaya Hungwe,Q1910161,ZANU–PF
-+++,,Joseph Madziva,Q1910161,ZANU–PF
-+++,,Joshua Teke Malinga,Q1910161,ZANU–PF
-+++,,Keresencia Chabuka,Q85786782,MDC
-+++,,Kerina Gweshe,Q85786782,MDC
-+++,,Langton Chikukwa,,
-+++,,Larry Mavhima,Q1910161,ZANU–PF
-+++,,Lilian Timveos,Q85786782,MDC
-+++,,Lovemore Matuke,Q1910161,ZANU–PF
-+++,,Martha Muronzi,Q85786782,MDC
+->,Q111291742->NULL,Clara Shumba,Q1910161,ZANU–PF
+->,Q111291744->NULL,Douglas Mwonzora,Q85786782,NULL->MDC
+->,Q5360562,Elias Mudzuri,Q85786782,NULL->MDC
+->,Q106269407->NULL,Ellen Gwaradzimba,Q1910161,ZANU–PF
+->,Q111291745->NULL,Esnath Rwambiwa,Q85786782,NULL->MDC
+->,Q111283850->NULL,Fortune Charumbira,,
+->,Q111291746->NULL,Gideon Shoko,Q85786782,NULL->MDC
+->,Q111291747->NULL,Helen Zivira,Q85786782,NULL->MDC
+->,Q111291748->NULL,Herbert Sinampande,Q85786782,NULL->MDC
+->,Q111283563->NULL,Jane Chifamba,Q85786782,NULL->MDC
+->,Q111291749->NULL,Josaya Hungwe,Q1910161,ZANU–PF
+->,Q111291750->NULL,Joseph Madziva,Q1910161,ZANU–PF
+->,Q111291751->NULL,Joshua Teke Malinga,Q1910161,ZANU–PF
+->,Q111291752->NULL,Keresencia Chabuka,Q85786782,NULL->MDC
+->,Q111291753->NULL,Kerina Gweshe,Q85786782,NULL->MDC
+->,Q111291754->NULL,Langton Chikukwa,,
+->,Q111291755->NULL,Larry Mavhima,Q1910161,ZANU–PF
+->,Q111283569->NULL,Lilian Timveos,Q85786782,NULL->MDC
+->,Q111281682->NULL,Lovemore Matuke,Q1910161,ZANU–PF
+->,Q111283571->NULL,Martha Muronzi,Q85786782,NULL->MDC
 +++,,Masendu,,
 +++,,Mathuphula,,
 +++,,Matsiwo,,
-+++,,Maybe Mbowa,Q1910161,ZANU–PF
-+++,,Meliwe Phuthi,Q85786782,MDC
-+++,Q6848219,Mike Nyambuya,Q1910161,ZANU–PF
-+++,,Mildred Reason Dube,Q85786782,MDC
-+++,,Milton Ntabeni,,
-+++,,Molly Ndlovu,Q85786782,MDC
-+++,,Monica Mavhunga,Q85786782,MDC
-+++,Q85118775,Monica Mutsvangwa,Q1910161,ZANU–PF
-+++,Q16136022,Morgan Femai,Q85786782,MDC
-+++,,Morgan Komichi,Q85786782,MDC
-+++,,Mtshane Khumalo,,
+->,Q111291756->NULL,Maybe Mbowa,Q1910161,ZANU–PF
+->,Q111291757->NULL,Meliwe Phuthi,Q85786782,NULL->MDC
+->,Q111291758->NULL,Mildred Reason Dube,Q85786782,NULL->MDC
+->,Q111283853->NULL,Milton Ntabeni,,
+->,Q111291759->NULL,Molly Ndlovu,Q85786782,NULL->MDC
+->,Q111291760->NULL,Monica Mavhunga,Q85786782,NULL->MDC
+->,Q16136022,Morgan Femai,Q85786782,NULL->MDC
+->,Q111291761->NULL,Morgan Komichi,Q85786782,NULL->MDC
+->,Q111283854->NULL,Mtshane Khumalo,,
 +++,,Nembire,,
 +++,,Ngezi,,
 +++,,Ngungubane,,
 +++,,Nhema,,
-+++,,Nkathazo Siansole,,
+->,Q111283857->NULL,Nkathazo Siansole,,
 +++,,Nyangazonke,,
-+++,Q2011278,Obert Mpofu,Q1910161,ZANU–PF
-+++,,Oliver Chidawu,Q1910161,ZANU–PF
-+++,,Ottillia Maluleke,Q1910161,ZANU–PF
-+++,,Phyllis Ndlovu,Q85786782,MDC
+->,Q111291762->NULL,Oliver Chidawu,Q1910161,ZANU–PF
+->,Q111291763->NULL,Ottillia Maluleke,Q1910161,ZANU–PF
+->,Q111291764->NULL,Phyllis Ndlovu,Q85786782,NULL->MDC
+---,Q20872132,Prisca Mupfumira,Q1910161,ZANU–PF
 +++,,Priscah Mupfumira,Q1910161,ZANU–PF
-+++,,Rejoice Timire,Q1910161,ZANU–PF
-+++,,Rosemary Nyathi,Q85786782,MDC
-+++,,Shephered Chengeta Gundu,,
-+++,,Sikelela Gumpo,Q1910161,ZANU–PF
-+++,Q16866539,Simon Khaya-Moyo,Q1910161,ZANU–PF
-+++,,Siphiwe Ncube,Q85786782,MDC
-+++,,Spinani Hungwe,Q1910161,ZANU–PF
-+++,Q7660136,Sydney Sekeramayi,Q1910161,ZANU–PF
-+++,,Tambudzani Moyo,Q1910161,ZANU–PF
-+++,,Tapfumanei Wunganayi,Q85786782,MDC
-+++,,Themba Mathuthu,Q1910161,ZANU–PF
-+++,,Theresa Maonei Makone,Q85786782,MDC
-+++,,Thokozile Mathuthu,Q1910161,ZANU–PF
-+++,,Tichinani Mavetera,Q85786782,MDC
+->,Q111291765->NULL,Rejoice Timire,Q1910161,ZANU–PF
+->,Q111283585->NULL,Rosemary Nyathi,Q85786782,NULL->MDC
+->,Q111291766->NULL,Shephered Chengeta Gundu,,
+->,Q111291767->NULL,Sikelela Gumpo,Q1910161,ZANU–PF
+->,Q111283588->NULL,Siphiwe Ncube,Q85786782,NULL->MDC
+->,Q111291768->NULL,Spinani Hungwe,Q1910161,ZANU–PF
+->,Q111291769->NULL,Tambudzani Moyo,Q1910161,ZANU–PF
+->,Q111291770->NULL,Tapfumanei Wunganayi,Q85786782,NULL->MDC
+->,Q111291771->NULL,Themba Mathuthu,Q1910161,ZANU–PF
+->,Q111291772->NULL,Theresa Maonei Makone,Q85786782,NULL->MDC
+->,Q111291773->NULL,Thokozile Mathuthu,Q1910161,ZANU–PF
+->,Q111291774->NULL,Tichinani Mavetera,Q85786782,NULL->MDC
 +++,,Tsitsi Muzenda,Q1910161,ZANU–PF
-+++,,Violet Moeketsi,Q85786782,MDC
-+++,,Voice Chinake,Q85786782,MDC
-+++,,Watson Khupe,Q1910161,ZANU–PF
-+++,,Witness Bungu,,
+->,Q111283595->NULL,Violet Moeketsi,Q85786782,NULL->MDC
+->,Q111291775->NULL,Voice Chinake,Q85786782,NULL->MDC
+->,Q111291776->NULL,Watson Khupe,Q1910161,ZANU–PF
+->,Q111291777->NULL,Witness Bungu,,

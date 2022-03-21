@@ -2,9 +2,10 @@ const fs = require('fs');
 let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
-module.exports = (id, label, party) => {
+module.exports = (id, label, party, start) => {
   qualifier = { }
   if(meta.term) qualifier['P2937'] = meta.term.id
+  if(start)     qualifier['P580']  = start
   if(party)     qualifier['P4100'] = party
 
   reference = {}

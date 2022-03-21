@@ -2,7 +2,7 @@ const fs = require('fs');
 let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
-module.exports = (label,party) => {
+module.exports = (label,party,start) => {
   mem = {
     value: meta.position,
     qualifiers: {
@@ -15,6 +15,7 @@ module.exports = (label,party) => {
       P1810: label,
     }
   }
+  if(start) mem['qualifiers']['P580']  = start
 
   claims = {
     P31: { value: 'Q5' }, // human

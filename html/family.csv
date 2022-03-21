@@ -9,6 +9,8 @@ Q10707,Robert Mugabe,relative,Q7167845,Perence Shiri
 Q10707,Robert Mugabe,sibling,Q2209549,Sabina Mugabe
 Q10707,Robert Mugabe,spouse,Q453364,Grace Mugabe
 Q10707,Robert Mugabe,spouse,Q465908,Sally Mugabe
+Q111313054,Peter Chanetsa,spouse,Q111317499,Beatrice Chanetsa
+Q16732124,Muchadeyi Masunda,child,Q50396635,Sindisiwe van Zyl
 Q2209549,Sabina Mugabe,child,Q43402860,Patrick Zhuwao
 Q2209549,Sabina Mugabe,father,Q106342703,Gabriel Mugabe Matibiri
 Q2209549,Sabina Mugabe,mother,Q106342702,Amai Bona Mugabe
@@ -25,6 +27,8 @@ Q43962933,Auxillia Mnangagwa,spouse,Q510523,Emmerson Mnangagwa
 Q453364,Grace Mugabe,child,Q16233420,Bona Mugabe
 Q453364,Grace Mugabe,spouse,Q10707,Robert Mugabe
 Q453364,Grace Mugabe,spouse,Q7599637,Stanley Goreraza
+Q5017585,Cain Mathema,spouse,Q111315917,Bathabetsoe Diana Nare
+Q5017585,Cain Mathema,spouse,Q111315925,Musa Ncube
 Q510523,Emmerson Mnangagwa,spouse,Q43962933,Auxillia Mnangagwa
 Q5340334,Edson Zvobgo,spouse,Q17402564,Julia Tukai Zvobgo
 Q57762,Morgan Tsvangirai,spouse,Q7648475,Susan Tsvangirai
@@ -33,4 +37,5 @@ Q7167845,Perence Shiri,relative,Q6131292,James Chikerema
 Q7447116,Sekai Holland,father,Q106579027,Masotsha Mike Hove
 Q7982050,Welshman Ncube,relative,Q29622258,Gugulethu Zuma-Ncube
 Q85118775,Monica Mutsvangwa,spouse,Q43266691,Christopher Mutsvangwa
+Q86628132,Obadiah Moyo,spouse,Q111315272,Lucy Memory
 Q981736,Joice Mujuru,spouse,Q4305770,Solomon Mujuru

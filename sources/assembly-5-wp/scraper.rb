@@ -10,14 +10,23 @@ class RepList < Scraped::HTML
   decorator WikidataIdsDecorator::Links
 
   field :members do
-    member_entries.map { |ul| fragment(ul => Rep) }.reject(&:empty?).map(&:to_h)
+    member_items.reject(&:empty?).map(&:to_h)
   end
 
   private
 
+  def member_items
+    member_entries.map { |ul| fragment(ul => Rep) } +
+    new_member_entries.map { |ul| fragment(ul => NewRep) }
+  end
+
   def member_entries
-    # this gets both lists
+    # this gets both main lists
     noko.xpath('//table[contains(., "Welshman")]//tr[td[a]]')
+  end
+
+  def new_member_entries
+    noko.xpath('//table[contains(., "Makova")]//tr[td[a]]')
   end
 
   class Rep < Scraped::HTML
@@ -41,6 +50,10 @@ class RepList < Scraped::HTML
       party_link.text.tidy
     end
 
+    field :startDate do
+      '2000-07-18'
+    end
+
     private
 
     def tds
@@ -55,7 +68,23 @@ class RepList < Scraped::HTML
       tds[2].css('a')
     end
   end
+
+  class NewRep <Rep
+    def name_link
+      tds[5].css('a')
+    end
+
+    def party_link
+      tds[-2].css('a')
+    end
+
+    field :startDate do
+      Date.parse tds[-1].text.tidy
+    end
+  end
 end
+
+
 
 url = ARGV.first
 puts EveryPoliticianScraper::ScraperData.new(url, klass: RepList).csv

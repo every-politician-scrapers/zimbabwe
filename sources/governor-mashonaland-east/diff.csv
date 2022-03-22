@@ -2,10 +2,8 @@
 +++,Rwizi Ziyenge,,1984-03-01,1990-01-11
 +++,Abraham Kabasa,,1990,1993
 +++,Edmund Garwe,,1993,1996-05-09
-+++,David Karimanzira,Q19144163,1996-05-09,2005-04-15
-+++,Ray Kaukonde,,2005-04-15,2008-08-25
+->,Ray Kaukonde,Q111281731->NULL,2005-04-15,2008-08-25
 ->,Aeneas Chigwedere,Q4687771,2008-08-25,2013->2013-08-25
-+++,Simbaneuta Mudarikwa,,2013-08-25,2014-11-25
-+++,Joel Biggie Matiza,Q105071475,2014-12,2015-07-06
-+++,Ambrose Mutinhiri,Q4741842,2015-07-06,2017
-+++,David Musabayana,,2017-12-04,2018-07
+->,Simbaneuta Mudarikwa,Q111281744->NULL,2013-08-25,2014-11-25
+->,Joel Matiza->Joel Biggie Matiza,Q105071475,2014-12,2015-07-06
+->,David Musabayana,Q111291925->NULL,2017-12-04,2018-07

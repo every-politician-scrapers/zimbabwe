@@ -1,8 +1,3 @@
 @@,itemlabel,item,startdate,enddate
-+++,Frank Mussell,Q5488595,1980-04-18,1981
-+++,Norman Walsh,Q16018947,1981,1983-05-22
-+++,Azim Daudpota,Q4155258,1983-07,1986-01
-+++,Josiah Tungamirai,Q16016626,1986-01,1992
-+++,Perrance Shiri,Q7167845,1992,2017-12-07
-+++,Shebba Shumbayaonda,,2017-12-07,2017-12-18
-+++,Elson Moyo,Q5367709,2017-12-18,
+->,Perence Shiri->Perrance Shiri,Q7167845,1992,2017-12-07
+->,Shebba Shumbayaonda,Q111316239->NULL,2017-12-07,2017-12-18

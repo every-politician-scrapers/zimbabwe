@@ -1,35 +1,23 @@
 @@,itemlabel,item,startdate,enddate
-+++,Hector Macdonald,Q18187087,1980-04-18,1980-04-30
-+++,Harry Elinder Davies,Q107535391,1980-04-18,1980-06-24
 +++,John Vernon Radcliffe Lewis,,1980-04-18,1982
-+++,Bennie Goldin,Q61728672,1980-05-08,1981
-+++,Enoch Dumbutshena,Q5379289,1980-05-08,1990
-+++,Leo Baron,Q18345927,1980-05-08,1983
-+++,John Fieldsend,Q28912516,1980-07,1983-02
-+++,Anthony Gubbay,Q4772638,1983,2001-07-01
-+++,Telford Georges,Q110101751,1983-03,1984-02
-+++,Nicholas McNally,Q46617470,1984,2001-12-31
-+++,John Manyarara,Q6246673,1987-01,1992
-+++,Ahmed Ebrahim,Q111327981,1990,2002-05
-+++,Simbarashe Muchechetere,Q110101754,1992,2001-12-27
-+++,Wilson Sandura,Q110101756,1998,2011-07
-+++,Godfrey Chidyausiku,Q5576402,2001-03,2017-02-28
-+++,Luke Malaba,Q56222237,2001-07,
-+++,Vernanda Ziyambi,Q110101760,2001-07,2016-11-30
-+++,Misheck Cheda,Q110101757,2001-07,2012
-+++,Elizabeth Gwaunza,Q13576447,2002,
-+++,Rita Makarau,Q110107610,2006,
-+++,Paddington Garwe,Q110107612,2010,
-+++,Yunus Omerjee,Q110107614,2011,2013-04-04
-+++,Anne-Marie Gowora,Q61646493,2012-05-02,
-+++,Bharat Patel,Q4901142,2013-05-22,
-+++,Ben Hlatshwayo,Q110101763,2013-05-22,
-+++,Antonia Guvava,Q110101764,2013-11,
-+++,Tendai Uchena,Q110107622,2015-09-16,
-+++,Susan Mavangira,Q110107620,2015-09-16,
-+++,Chinembiri Bhunu,Q110107617,2015-09-16,
-+++,Vernanda Ziyambi,Q110101760,2017-02-06,2019-07-02
-+++,Lavender Makoni,Q87758093,2018-05-11,
-+++,Francis Bere,Q110107624,2018-05-11,
-+++,Charles Hungwe,Q110107625,2019-06-30,
-+++,Nicholas Mathonsi,Q110108609,2019-06-30,
+->,Telford Georges,Q110101751->NULL,1983-03,1984-02
+->,Nicholas McNally,Q46617470->NULL,1984,2001-12-31
+->,Ahmed Ebrahim,Q111327981->NULL,1990,2002-05
+->,Simbarashe Muchechetere,Q110101754->NULL,1992,2001-12-27
+->,Wilson Sandura,Q110101756->NULL,1998,2011-07
+->,Vernanda Ziyambi,Q110101760->NULL,2001-07,2016-11-30
+->,Misheck Cheda,Q110101757->NULL,2001-07,2012
+->,Elizabeth Gwaunza,Q13576447->NULL,2002,
+->,Rita Makarau,Q110107610->NULL,2006,
+->,Paddington Garwe,Q110107612->NULL,2010,
+->,Yunus Omerjee,Q110107614->NULL,2011,2013-04-04
+->,Marie-Anne Gowora->Anne-Marie Gowora,Q61646493,2012-05-02,
+->,Ben Hlatshwayo,Q110101763->NULL,2013-05-22,
+->,Antonia Guvava,Q110101764->NULL,2013-11,
+->,Tendai Uchena,Q110107622->NULL,2015-09-16,
+->,Susan Mavangira,Q110107620->NULL,2015-09-16,
+->,Chinembiri Bhunu,Q110107617->NULL,2015-09-16,
+->,Vernanda Ziyambi,Q110101760->NULL,2017-02-06,2019-07-02
+->,Francis Bere,Q110107624->NULL,2018-05-11,
+->,Nicholas Mathonsi,Q110108609->NULL,2019-06-30,
+->,Charles Hungwe,Q110107625->NULL,2019-06-30,

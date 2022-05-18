@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Zimbabwe",
+      "id": "Q954"
+    },
+    "cabinet": {
+      "id": "Q60785385",
+      "start": "2019-11-08",
+      "parent": "Q5015575"
+    },
+    "source": {
+        "url":   "",
+        "title": "",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/zimbabwe-ministers"
+}

@@ -5,7 +5,7 @@ require 'every_politician_scraper/comparison'
 
 class Comparison < EveryPoliticianScraper::NulllessComparison
   def columns
-    super - %i[partylabel startdate enddate]
+    super - %i[arealabel partylabel startdate enddate]
   end
 end
 

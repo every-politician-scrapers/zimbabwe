@@ -30,12 +30,12 @@ Q111281614,Blessed Runesu,Q1910161,Zimbabwe African National Union – Patriotic
 Q111282854,Brian Tshuma,Q1146616,Movement for Democratic Change – Tsvangirai,,,2013-09-17,2018-07-29,,Q111282854-6370C8DE-7BAF-4E62-8ABE-DD82651C3145
 Q111281615,Cephas Sindi,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q111281615-8C631F43-087C-4C39-85D6-494DD7E96B44
 Q111281616,Chenayimoyo D. Francis Nhema,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q111281616-0F7ECA4E-1263-4C1D-9297-E7DBD3AEE5ED
-Q5107550,Chris Mushohwe,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q5107550-9E833EA3-C51F-4570-9607-66E041C31FC9
 Q111282855,Christina Nyere,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,,Q111282855-A72740C9-3EB0-4AE3-91F8-4B89AEA8ACCA
 Q111281617,Christopher Chigumba,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q111281617-65198854-D427-49FD-A17C-A23292EC1150
 Q93578158,Christopher Chingosho,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q93578158-720EFD40-D2CC-474A-B33F-4525CF1FD777
 Q111281618,Christopher Chitindi,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q111281618-07E4B24E-A7DC-4B74-88B5-EFE6065CD08D
 Q32534048,Christopher Kuruneri,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q32534048-F7FE1508-CC23-4FB7-8D50-04EC0A2E8329
+Q5107550,Christopher Mushohwe,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q5107550-9E833EA3-C51F-4570-9607-66E041C31FC9
 Q43266691,Christopher Mutsvangwa,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q43266691-7B57B48E-BA04-4030-81D4-27498E7A4334
 Q111281619,Chriswell Mutematsaka,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q111281619-B398F9AB-B68B-4FEC-9138-7E2D37768FA9
 Q111281620,Chuma K. Bhasikiti,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q111281620-4F857FFF-CA4B-49F9-BD0F-D72300EA1F73
@@ -98,7 +98,7 @@ Q5584672,Gorden Moyo,Q1146616,Movement for Democratic Change – Tsvangirai,,,20
 Q111281653,Harris Ncube,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q111281653-47DFA03E-0AE9-420B-9F1D-C7EDD733C37D
 Q111281654,Hazvineyi Z Makari,,,,,2013-09-17,2018-07-29,,Q111281654-7CA128F7-C305-40EC-BFB1-998C69D62D21
 Q5927511,Hubert Nyanhongo,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q5927511-7DF93BE8-B600-4F06-AA88-288E7DF62839
-Q16151660,Ignatious Chombo,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q16151660-BBE9223C-9D6F-457E-ACFB-F96B246180B5
+Q16151660,Ignatius Chombo,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q16151660-BBE9223C-9D6F-457E-ACFB-F96B246180B5
 Q111281655,Innocent Gonese,Q1146616,Movement for Democratic Change – Tsvangirai,,,2013-09-17,2018-07-29,male,Q111281655-A624B014-B040-4273-A0A4-FD8CA2204B12
 Q111281656,Innocent Pedzisai,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q111281656-3553461B-0ACE-4896-8C52-5E8704D17D92
 Q111281657,Irene Zindi,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,female,Q111281657-3D6D44C8-041C-42EB-A1D9-FFD6938562E7
@@ -131,7 +131,7 @@ Q111281670,Judith Muzhavazhe,Q1146616,Movement for Democratic Change – Tsvangi
 Q111281671,Justice Mayor Wadyajena,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q111281671-24E90436-ACBA-4C09-B7FC-3C131D7A1789
 Q111281672,Kalitso Gwanetsa,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q111281672-14A4957E-60DB-45E2-A18F-F99429064C50
 Q85850886,Kazembe Kazembe,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q85850886-29684FB4-6841-478B-9908-1EF83D758767
-Q6386891,Kembo Mohadi,,,,,2009-02,,male,Q6386891-F0B5AF6B-6EC6-486E-8FCE-C08D4D0D6A70
+Q6386891,Kembo Mohadi,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2009-02,,male,Q6386891-F0B5AF6B-6EC6-486E-8FCE-C08D4D0D6A70
 Q111281673,Kennedy Matimba,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q111281673-65ACE531-C931-4D1E-BABE-9AACC7D32C0B
 Q111281674,Kenneth S. Musanhi,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q111281674-FCBB1DD3-6377-424F-903E-111F41402F51
 Q111281675,Kindness Paradza,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q111281675-694DE2DA-26F1-498E-9EC2-7A9B7A94D7FC
@@ -248,7 +248,7 @@ Q111281750,Soul Ncube,Q1910161,Zimbabwe African National Union – Patriotic Fro
 Q111282892,Spiwe Muchenje,Q1146616,Movement for Democratic Change – Tsvangirai,,,2013-09-17,2018-07-29,,Q111282892-1356AE30-4400-44CF-BBC0-1D892EC050C6
 Q7641876,Supa C. Mandiwanzira,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q7641876-63341121-5601-469F-B723-9741CD407183
 Q7660812,Sylvester Nguni,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q7660812-BB44CC66-EF2D-4C65-826D-9909A096EA6A
-Q43667129,Tabetha Kanengoni Malinga,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,female,Q43667129-A6FCFA47-A301-4449-B821-46CECB1A2D53
+Q43667129,Tabetha Kanengoni-Malinga,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,female,Q43667129-A6FCFA47-A301-4449-B821-46CECB1A2D53
 Q111282893,Tafanana Zhou,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,,Q111282893-FD2EC73C-C390-4E49-AF96-811C853ABBC7
 Q111281751,Tapiwa Mashakada,Q1146616,Movement for Democratic Change – Tsvangirai,,,2013-09-17,2018-07-29,male,Q111281751-377F9994-3629-46FE-B112-3BC7551314E5
 Q111281752,Tapiwanashe Matangaidze,Q1910161,Zimbabwe African National Union – Patriotic Front,,,2013-09-17,2018-07-29,male,Q111281752-48A3EBEB-BA2D-4F81-A241-5951607084A4

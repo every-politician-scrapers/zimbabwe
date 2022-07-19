@@ -1,0 +1,84 @@
+{
+  "title": "Ruth Masodzi Chikwira",
+  "pageID": 65228940,
+  "categories": [
+    "Ambassadors of Zimbabwe to Germany",
+    "Zimbabwean women ambassadors",
+    "Ambassadors of Zimbabwe to Poland",
+    "Living people",
+    "Year of birth missing (living people)",
+    "Ambassadors of Zimbabwe to Switzerland",
+    "University of Zimbabwe alumni",
+    "Ambassadors of Zimbabwe to Canada"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ruth Masodzi Chikwira is the Ambassador of Zimbabwe to Germany with accreditation to Poland and Switzerland.",
+              "links": [
+                {
+                  "text": "Ambassador of Zimbabwe to Germany",
+                  "type": "internal",
+                  "page": "List of ambassadors to Germany"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ruth Masodzi Chikwira"
+                ]
+              }
+            },
+            {
+              "text": "In December 2019, she presented her letters of credence as Ambassador-designate to Canada."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Chikwira earned a Bachelor Degree in Administration from the University of Zimbabwe and a Master’s Degree in Business Administration from the Free University of Brussels."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "title": "The Embassy of Zimbabwe in Berlin",
+          "url": "http://www.berlinglobal.org/the-embassy-of-zimbabwe-in-berlin.html",
+          "website": "Berlin Global",
+          "accessdate": "5 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Presentation of Letters of Credence",
+          "url": "https://www.gg.ca/en/activities/2019/presentation-letters-credence-2",
+          "website": "The Governor General of Canada",
+          "accessdate": "5 September 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "africa-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

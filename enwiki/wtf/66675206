@@ -1,0 +1,200 @@
+{
+  "title": "Frederick Shava",
+  "pageID": 66675206,
+  "categories": [
+    "21st-century Zimbabwean politicians",
+    "Ambassadors of Zimbabwe to China",
+    "Living people",
+    "Foreign ministers of Zimbabwe",
+    "Zimbabwean officials of the United Nations",
+    "University of Zimbabwe alumni",
+    "Alumni of Imperial College London",
+    "Alumni of the University of London",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Frederick Musiiwa Makamure Shava is a Zimbabwean politician who was appointed to cabinet as the country's Minister of Foreign Affairs and International Trade in February 2021.",
+              "links": [
+                {
+                  "text": "cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Zimbabwe"
+                },
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Zimbabwe)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Frederick Musiiwa Makamure Shava"
+                ]
+              }
+            },
+            {
+              "text": "Prior to his appointment, he served as Zimbabwe's representative to the United Nations where he was the President of the UN Economic and Social Affairs Council.",
+              "links": [
+                {
+                  "text": "Zimbabwe's",
+                  "type": "internal",
+                  "page": "Zimbabwe"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                }
+              ]
+            },
+            {
+              "text": "Shava also served in Robert Mugabe's government, as a cabinet minister as the Minister of Labour, Manpower Planning and Development from 1981 to 1986 and Minister of State for Political Affairs in 1987.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Robert Mugabe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "While a cabinet minister in the Mugabe government, Shava was convicted for perjury in the Willowgate motor scandal, a matter that he was later pardoned for by the president.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Willowgate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has also served as an ambassador for Zimbabwe in China."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Zimbabwean politician",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "last": "Machivenyika",
+          "first": "Farirai",
+          "date": "8 February 2021",
+          "title": "JUST IN: President makes Ministerial appointments",
+          "url": "https://www.herald.co.zw/just-in-president-makes-ministerial-appointments/",
+          "url-status": "live",
+          "access-date": "2021-02-08",
+          "website": "The Herald",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Mabasa",
+          "first": "Sasa",
+          "date": "20 September 2016",
+          "title": "Zimbabwe chosen to lead UN economic, social council",
+          "url": "https://www.chronicle.co.zw/zimbabwe-chosen-to-lead-un-economic-social-council-2/",
+          "url-status": "live",
+          "access-date": "2021-02-08",
+          "website": "The Chronicle",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Reuters",
+          "date": "1981-06-14",
+          "title": "ZIMBABWE EXODUS IS GREATER NOW THAN IN WAR (Published 1981)",
+          "language": "en-US",
+          "work": "The New York Times",
+          "url": "https://www.nytimes.com/1981/06/14/world/zimbabwe-exodus-is-greater-now-than-in-war.html",
+          "access-date": "2021-02-08",
+          "issn": "0362-4331",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Maguchu",
+          "first": "Prosper",
+          "title": "Transitional Justice and Socio-Economic Rights in Zimbabwe",
+          "publisher": "T.M.C. Asser Press",
+          "year": "2019",
+          "isbn": "9789462653238",
+          "location": "The Hague",
+          "pages": "87–88",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Frederick Shava holds a Doctor of Philosophy and a Master of Philosophy in parasitology from Royal Holloway College; a Master of Science in nematology from Imperial College; and a Bachelor of Science in biology from University of Zimbabwe.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Royal Holloway College"
+                },
+                {
+                  "type": "internal",
+                  "page": "Imperial College"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Zimbabwe"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "United Nations Economic and Social Council",
+          "title": "2016: H.E. Frederick Musiiwa Makamure Shava (Republic of Zimbabwe)",
+          "url": "https://www.un.org/ecosoc/en/node/1247541",
+          "url-status": "live",
+          "access-date": "2021-02-08",
+          "website": "www.un.org",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

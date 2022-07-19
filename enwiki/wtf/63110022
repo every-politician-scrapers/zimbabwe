@@ -1,0 +1,166 @@
+{
+  "title": "Monica Mutsvangwa",
+  "pageID": 63110022,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Government ministers of Zimbabwe",
+    "Women government ministers of Zimbabwe",
+    "21st-century Zimbabwean politicians",
+    "21st-century Zimbabwean women politicians",
+    "ZANU–PF politicians",
+    "Members of the Senate of Zimbabwe"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Monica Mutsvangwa is Zimbabwe's Minister of Information, Publicity and Broadcasting Services.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zimbabwe"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Monica Mutsvangwa"
+                ]
+              }
+            },
+            {
+              "text": "She has held cabinet roles in both the Robert Mugabe government and the Emmerson Mnangagwa government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Robert Mugabe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Emmerson Mnangagwa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She has been active in Zimbabwe's politics since 2002 when she ran as a councillor in Harare's municipal elections."
+            },
+            {
+              "text": "She is affiliated with Zanu-PF.",
+              "links": [
+                {
+                  "text": "Zanu-PF",
+                  "type": "internal",
+                  "page": "ZANU–PF"
+                }
+              ]
+            },
+            {
+              "text": "In Robert Mugabe's government, she served as the Deputy Minister of Information, Media and Broadcasting Services and the Deputy Minister Macro-Economic Planning and Investment Promotion."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.parlzim.gov.zw/about-parliament/who-s-who",
+          "title": "Who's is Who",
+          "website": "Parliament of Zimbabwe",
+          "access-date": "2020-02-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://mg.co.za/article/2015-09-17-bloated-cabinet-weighs-on-zim/",
+          "title": "Bloated Cabinet weighs on Zim",
+          "date": "2015-09-17",
+          "website": "The Mail & Guardian",
+          "language": "en-ZA",
+          "access-date": "2020-02-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.voazimbabwe.com/a/mnangagwa-appoints-military-commanders-in-recycled-cabinet/4144702.html",
+          "title": "Mnangagwa Appoints Coup Plotters to Key Ministries in Recycled Mugabe Cabinet",
+          "last": "Dube",
+          "first": "Gibbs",
+          "date": "1 December 2017",
+          "website": "VOA",
+          "language": "en",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20180628204931/https://www.voazimbabwe.com/a/mnangagwa-appoints-military-commanders-in-recycled-cabinet/4144702.html",
+          "archive-date": "2018-06-28",
+          "access-date": "2020-02-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.iol.co.za/news/africa/mnangagwa-names-zimbabwes-new-cabinet-12215195",
+          "title": "Mnangagwa names Zimbabwe's new cabinet",
+          "date": "1 December 2017",
+          "website": "IOL",
+          "language": "en",
+          "access-date": "2020-02-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://global.factiva.com/ha/default.aspx#./!?&_suid=1581695486778020881805293942768",
+          "title": "Zanu-PF, MDC to Field Candidates in All Wards",
+          "date": "20 February 2002",
+          "work": "All Africa",
+          "access-date": "14 February 2020",
+          "publisher": "Factiva",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Machivenyika",
+          "first": "F.",
+          "url": "https://www.herald.co.zw/cabinet-reshuffled/",
+          "title": "Cabinet reshuffled",
+          "date": "12 September 2015",
+          "work": "The Herald",
+          "access-date": "18 February 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "current members of the senate of zimbabwe"
+        },
+        {
+          "template": "mnangagwa cabinet"
+        },
+        {
+          "template": "members of the 8th parliament of zimbabwe"
+        },
+        {
+          "template": "zimbabwe-politician-stub"
+        }
+      ]
+    }
+  ]
+}

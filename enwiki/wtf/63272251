@@ -1,0 +1,176 @@
+{
+  "title": "Winston Chitando",
+  "pageID": 63272251,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "ZANU–PF politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Winston Chitando is a Zimbabwean politician.",
+              "formatting": {
+                "bold": [
+                  "Winston Chitando"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In December 2017 was appointed the country's Minister of Mines and Mining Development."
+            },
+            {
+              "text": "He is a member of Zanu-PF and is the member of parliament for Gutu Central.",
+              "links": [
+                {
+                  "text": "Zanu-PF",
+                  "type": "internal",
+                  "page": "ZANU–PF"
+                }
+              ]
+            },
+            {
+              "text": "He was ordered imprisoned in February 2020 for contempt of court for failing to transfer ownership over mining claims."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to becoming a politician, he led mine operations at Mimosa Holdings and Hwange Colliery Company Limited.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hwange Colliery"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Winston Chitando is the son of Nyengeterai Chitando and David Kwangware Gwatima Chitando."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.iol.co.za/news/africa/mnangagwa-names-zimbabwes-new-cabinet-12215195",
+          "title": "Mnangagwa names Zimbabwe's new cabinet",
+          "date": "1 December 2017",
+          "website": "IOL News",
+          "language": "en",
+          "url-status": "live",
+          "access-date": "2020-03-03",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.hararepost.co.zw/ar/the-news/local-news/3232-be-patient-with-government-gutu-residents-told",
+          "title": "Be patient with government-Gutu residents told",
+          "website": "www.hararepost.co.zw",
+          "access-date": "2020-03-04",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.herald.co.zw/mines-minister-guilty-of-contempt/",
+          "title": "Mines Minister guilty of contempt",
+          "last": "Herald",
+          "first": "The",
+          "website": "The Herald",
+          "language": "en-GB",
+          "access-date": "2020-03-13",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Stoddard",
+          "first": "Ed",
+          "url": "https://www.reuters.com/article/us-africa-mining-investment-idUSKBN1FS1XR",
+          "title": "Political shifts lift investor mood in southern African mining",
+          "date": "2018-02-08",
+          "work": "Reuters",
+          "access-date": "2020-03-03",
+          "url-status": "live",
+          "last2": "Lewis",
+          "first2": "Barbara",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://mg.co.za/article/2011-04-15-zims-poor-mining-towns-feel-pinch/",
+          "title": "Zim's poor mining towns feel pinch",
+          "last": "Moyo",
+          "first": "Jason",
+          "date": "2011-04-15",
+          "website": "The Mail & Guardian",
+          "language": "en-ZA",
+          "url-status": "live",
+          "access-date": "2020-03-03",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.masvingomirror.com/2016/06/mimosa-ceos-mother-dies.html",
+          "title": "Mimosa CEO’s mother dies",
+          "last": "Homba",
+          "first": "Tawanda",
+          "website": "The Mirror",
+          "url-status": "live",
+          "access-date": "2020-03-04",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.miningindaba.com/Speaker-list/winstonchitando",
+          "title": "Mining Indaba - Hon. Winston Chitando",
+          "website": "Investing in African Mining",
+          "url-status": "live",
+          "access-date": "2020-03-03",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "mnangagwa cabinet"
+        },
+        {
+          "template": "zimbabwe-politician-stub"
+        }
+      ]
+    }
+  ]
+}

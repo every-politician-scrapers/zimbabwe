@@ -1,0 +1,142 @@
+{
+  "title": "Nicholas Kitikiti",
+  "pageID": 14931754,
+  "categories": [
+    "Ambassadors of Zimbabwe to Iran",
+    "Year of birth missing (living people)",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nicholas D. Kiti kiti has served as the ambassador of Zimbabwe to Iran since July 27, 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zimbabwe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Iran"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nicholas D. Kiti kiti"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as the Executive Secretary of the National Economic Consultative Forum and as Permanent Secretary in the Ministry of Mines and Energy."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ambassador Kitikiti met with President Mahmoud Ahmadinejad on December 24, 2007.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Iran"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mahmoud Ahmadinejad"
+                }
+              ]
+            },
+            {
+              "text": "President Ahmadinejad praised bilateral relations and pledged unity in the face of Western criticism.",
+              "links": [
+                {
+                  "text": "Western criticism",
+                  "type": "internal",
+                  "page": "Western world"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "year": "2007",
+          "url": "http://allafrica.com/stories/200712280168.html",
+          "title": "Zimbabwe: Ambassador Kitikiti Presents Credentials",
+          "publisher": "The Herald via allAfrica",
+          "accessdate": "2007-12-29",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Foreign relations of Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Foreign relations of Iran"
+              }
+            ]
+          },
+          {
+            "text": "Foreign relations of Zimbabwe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Foreign relations of Zimbabwe"
+              }
+            ]
+          },
+          {
+            "text": "Israel-Zimbabwe relations",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Israel-Zimbabwe relations"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "africa-diplomat-stub"
+        },
+        {
+          "template": "zimbabwe-politician-stub"
+        }
+      ]
+    }
+  ]
+}

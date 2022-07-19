@@ -1,0 +1,97 @@
+{
+  "title": "Lavender Makoni",
+  "pageID": 63349377,
+  "categories": [
+    "Judges of the Supreme Court of Zimbabwe",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lavender Makoni  is a Zimbabwean judge who currently serves as a justice of the Supreme Court of Zimbabwe.",
+              "links": [
+                {
+                  "text": "Zimbabwean",
+                  "type": "internal",
+                  "page": "Zimbabwe"
+                },
+                {
+                  "text": "judge",
+                  "type": "internal",
+                  "page": "judge"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Zimbabwe"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lavender Makoni "
+                ]
+              }
+            },
+            {
+              "text": "Makoni served as a judge in Zimbabwe's High Court from 2002 to 2018, when she appointed as a Supreme Court judge."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Zimbabwean judge",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.sundaymail.co.zw/judiciary-takes-pride-in-celebrating-women",
+          "title": "Judiciary takes pride in celebrating women",
+          "date": "13 May 2018",
+          "website": "The Sunday Mail",
+          "language": "en-GB",
+          "url-status": "live",
+          "access-date": "2020-03-11",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.chronicle.co.zw/president-appoints-two-judges-to-supreme-court/",
+          "title": "President appoints two judges to Supreme Court",
+          "last": "Chronicle",
+          "first": "The",
+          "website": "The Chronicle",
+          "language": "en-GB",
+          "access-date": "2020-03-11",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "africa-law-bio-stub"
+        },
+        {
+          "template": "zimbabwe-bio-stub"
+        }
+      ]
+    }
+  ]
+}

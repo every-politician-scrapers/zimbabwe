@@ -1,0 +1,220 @@
+{
+  "title": "Priscilla Misihairabwi-Mushonga",
+  "pageID": 18787068,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Government ministers of Zimbabwe",
+    "Members of the National Assembly of Zimbabwe",
+    "Women government ministers of Zimbabwe",
+    "21st-century Zimbabwean politicians",
+    "21st-century Zimbabwean women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Priscilla Misihairabwi-Mushonga is a Zimbabwean politician and Ambassador to the Kingdom of Sweden.",
+              "links": [
+                {
+                  "text": "Zimbabwean",
+                  "type": "internal",
+                  "page": "Zimbabwe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sweden"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Priscilla Misihairabwi-Mushonga"
+                ]
+              }
+            },
+            {
+              "text": "During her time as Glen Norah's MP, she also served as the shadow foreign minister for the Movement for Democratic Change.",
+              "links": [
+                {
+                  "text": "Movement for Democratic Change",
+                  "type": "internal",
+                  "page": "Movement for Democratic Change – Tsvangirai"
+                }
+              ]
+            },
+            {
+              "text": "When the party split in 2005, she remained with the MDC formation and was elected Deputy Secretary-General of that party."
+            },
+            {
+              "text": "She has been representing her party in the Zimbabwean political negotiations."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "May 2018",
+          "template": "engvarb"
+        },
+        {
+          "date": "May 2013",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Right Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Right Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Priscilla Misihairabwi-Mushonga"
+          },
+          "image": {
+            "text": "Replace this image male.svg"
+          },
+          "imagesize": {
+            "text": "150px"
+          },
+          "office": {
+            "text": "Minister of Regional Integration and International Cooperation of Zimbabwe",
+            "links": [
+              {
+                "text": "Minister of Regional Integration and International Cooperation of Zimbabwe",
+                "type": "internal",
+                "page": "Ministry of Regional Integration and International Cooperation (Zimbabwe)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 February 2009"
+          },
+          "primeminister": {
+            "text": "Morgan Tsvangirai",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Morgan Tsvangirai"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Glen Norah, Harare",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Glen Norah"
+              },
+              {
+                "type": "internal",
+                "page": "Harare"
+              }
+            ]
+          },
+          "party": {
+            "text": "[MDC – Mutambara"
+          },
+          "termend": {
+            "text": "2013",
+            "number": 2013
+          }
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2009 she was appointed Minister of Regional Integration and International Cooperation."
+            },
+            {
+              "text": "In the government of national unity in the 2011 MDC congress she was elected the party's Secretary General, a position she will hold until the next congress in 2016."
+            },
+            {
+              "text": "She is the MDC chief representative at JOMIC (Joint Monitoring and Implementation Committee) and COPAC, the Constitutional Parliamentary Committee, a committee in charge of writing the Zimbabwean constitution."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Cabinet sworn in amid chaotic scenes",
+          "date": "13 February 2009",
+          "publisher": "NewZimbabwe.com",
+          "url": "http://www.newzimbabwe.com/pages/minister20.19389.html",
+          "access-date": "2009-02-13",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20090214135850/http://newzimbabwe.com/pages/minister20.19389.html",
+          "archive-date": "14 February 2009",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She was widowed after her husband, Dr Christopher Mushonga, died from injuries inflicted on him during a botched robbery."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.zimdaily.com/news/mushonga27.7353.html",
+          "title": "Mushonga killer gang now faces murder charge",
+          "date": "19 August 2009",
+          "publisher": "ZimDaily.com",
+          "access-date": "2010-01-07",
+          "archive-url": "https://archive.today/20090822124938/http://www.zimdaily.com/news/mushonga27.7353.html",
+          "archive-date": "22 August 2009",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "state": "autocollapse",
+          "template": "current members of the zimbabwe house of assembly"
+        },
+        {
+          "template": "zimbabwe government ministers 2009"
+        },
+        {
+          "template": "members of the 8th parliament of zimbabwe"
+        },
+        {
+          "template": "members of the 5th parliament of zimbabwe"
+        },
+        {
+          "template": "zimbabwe-politician-stub"
+        }
+      ]
+    }
+  ]
+}

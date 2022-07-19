@@ -1,0 +1,134 @@
+{
+  "title": "Daniel Garwe",
+  "pageID": 64472164,
+  "categories": [
+    "21st-century Zimbabwean politicians",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Daniel Garwe is a Zimbabwean politician.",
+              "formatting": {
+                "bold": [
+                  "Daniel Garwe"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed to Zimbabwe's Cabinet in November 2019 as the first Minister of the National Housing and Social Amenities."
+            },
+            {
+              "text": "As minister, he is overseeing a public-private partnership housing project to create housing for thousands."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Garwe was elected to the country's National Assembly in 2018, representing the constituency of Murehwa North.",
+              "links": [
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly of Zimbabwe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Murehwa North"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Garwe worked in the construction industry before joining politics and owns Planet Building."
+            },
+            {
+              "text": "He also plays an ownership role in Hastream Enterprises (Pvt) Ltd, Macheke Motors (Pvt) Ltd t/a Sebakwe Range Farm; Kudakawashe and Tafadzwa Garwe Family Trust."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Zimbabwean politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "last": "Herald",
+          "first": "The",
+          "title": "Updated: President reshuffles Cabinet",
+          "url": "https://www.herald.co.zw/president-mnangagwa-reshuffles-cabinet/",
+          "access-date": "2020-07-05",
+          "website": "The Herald",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-07-01",
+          "title": "Zimbabwe: Low-Cost Housing Possible to Achieve",
+          "url": "https://allafrica.com/stories/202007010221.html",
+          "access-date": "2020-07-05",
+          "website": "allAfrica.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Herald",
+          "first": "The",
+          "title": "High turnout in peaceful poll",
+          "url": "https://www.herald.co.zw/high-turnout-in-peaceful-poll/",
+          "access-date": "2020-07-05",
+          "website": "The Herald",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Herald",
+          "first": "The",
+          "title": "Murehwa North MP Garwe jailed 2 months",
+          "url": "https://www.herald.co.zw/murehwa-north-mp-garwe-jailed-2-months/",
+          "access-date": "2020-07-05",
+          "website": "The Herald",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Herald",
+          "first": "The",
+          "title": "Construction sector set for rebirth",
+          "url": "https://www.herald.co.zw/construction-sector-set-for-rebirth/",
+          "access-date": "2020-07-05",
+          "website": "The Herald",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Mangaliso Ndlovu",
+  "pageID": 63109172,
+  "categories": [
+    "1980 births",
+    "Living people",
+    "Members of the National Assembly of Zimbabwe",
+    "ZANU–PF politicians",
+    "Government ministers of Zimbabwe",
+    "Industry ministers",
+    "Trade ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nqobizitha Mangaliso Ndlovu (born 16 November 1980) is a Zimbabwean parliamentarian and minister.",
+              "links": [
+                {
+                  "text": "Zimbabwean parliamentarian",
+                  "type": "internal",
+                  "page": "Parliament of Zimbabwe"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nqobizitha Mangaliso Ndlovu"
+                ]
+              }
+            },
+            {
+              "text": "He is affiliated with ZANU–PF and represents the constituency of Bulilima East.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "ZANU–PF"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed the Minister of Industry, Commerce and Enterprise Development after the 2018 election."
+            },
+            {
+              "text": "In November 2019, he was appointed Zimbabwe's Minister of Environment, Climate Change, Tourism and International Trade, replacing Prisca Mupfumira.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Prisca Mupfumira"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Zimbabwean parliamentarian and minister (born 1980)",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.parlzim.gov.zw/component/k2/hon-ndhlovu-nqobizitha-mangaliso",
+          "title": "Hon Ndhlovu Nqobizitha Mangaliso",
+          "website": "Parliament of Zimbabwe",
+          "url-status": "live",
+          "access-date": "14 February 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Zimbabwe bigwigs lose during ruling party primaries",
+          "url": "https://global.factiva.com/ha/default.aspx#./!?&_suid=158169285613406376040918030882",
+          "accessdate": "14 February 2020",
+          "agency": "BBC Monitoring Africa",
+          "publisher": "Factiva",
+          "date": "2 May 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://allafrica.com/stories/201809070477.html",
+          "title": "Zimbabwe: President Announces Cabinet",
+          "last": "Mudzingwa",
+          "first": "Tobias",
+          "date": "2018-09-07",
+          "website": "allAfrica.com",
+          "language": "en",
+          "access-date": "2020-02-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Moyo",
+          "first": "Africa",
+          "url": "https://www.chronicle.co.zw/cabinet-reshuffled-3/",
+          "title": "Cabinet reshuffled",
+          "date": "9 November 2019",
+          "work": "Chronicle",
+          "access-date": "14 February 2020",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "mnangagwa cabinet"
+        }
+      ]
+    }
+  ]
+}

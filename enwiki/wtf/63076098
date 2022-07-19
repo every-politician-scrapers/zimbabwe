@@ -1,0 +1,231 @@
+{
+  "title": "July Moyo",
+  "pageID": 63076098,
+  "categories": [
+    "Zimbabwean people",
+    "ZANU–PF politicians",
+    "Living people",
+    "1950 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "July Moyo (born 7 May 1950) is a Zimbabwean parliamentarian and member of Zanu-PF.",
+              "links": [
+                {
+                  "text": "Zanu-PF",
+                  "type": "internal",
+                  "page": "ZANU–PF"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "July Moyo"
+                ]
+              }
+            },
+            {
+              "text": "He has been a member of cabinet in both Robert Mugabe and Emmerson Mnangagwa governments.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Robert Mugabe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Emmerson Mnangagwa"
+                }
+              ]
+            },
+            {
+              "text": "Moyo is currently the Minister of Local Government, Public Works and National Housing."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "The best minister in Zimbabwe",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "last1": "Machipisa",
+          "first1": "Lewis",
+          "title": "Party test for Zimbabwe civil servants",
+          "url": "http://news.bbc.co.uk/2/hi/africa/2504359.stm",
+          "access-date": "10 February 2020",
+          "agency": "BBC",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.reuters.com/article/us-zimbabwe-water-idUSKBN1W82PH",
+          "title": "Zimbabwe capital city shuts main water plant, shortages loom",
+          "date": "2019-09-23",
+          "work": "Reuters",
+          "access-date": "2020-02-10",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.thestandard.co.zw/2019/05/26/mnangagwa-drawn-tribal-storm/",
+          "title": "Mnangagwa drawn into tribal storm",
+          "date": "2019-05-26",
+          "website": "The Standard",
+          "language": "en-US",
+          "access-date": "2020-02-10",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.iol.co.za/news/africa/mnangagwa-names-zimbabwes-new-cabinet-12215195",
+          "title": "Mnangagwa names Zimbabwe's new cabinet {{!}} IOL News",
+          "website": "www.iol.co.za",
+          "language": "en",
+          "access-date": "2020-02-10",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1999, Moyo was appointed the Governor of Midlands."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2000, Moyo was appointed the Minister of Public Service, Labour and Social Welfare in Robert Mugabe's government, a position he held until Feb 2004."
+            },
+            {
+              "text": "He stopped elected opposition councilors from a bi-election in 2022 citing a non-existing piece of law."
+            },
+            {
+              "text": "Efforts to fight that battle were fruitless as the Zimbabwean courts are puppets of his party, Zanu Pf"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was placed on the United States sanctions list from 2003 to 2005.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States sanctions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2004, Robert Mugabe appointed Moyo to be the country's Minister of Energy and Power Development."
+            },
+            {
+              "text": "He held the position until April 2005."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When Emmerson Mnangagwa came to power in November 2017, Moyo was returned to cabinet to lead the Ministry of Local Government, Public Works and National Housing."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "The Month In Brief",
+          "date": "20 April 1999",
+          "work": "The Insider",
+          "publisher": "Factiva",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Mugabe announces new 19-member cabinet",
+          "date": "16 July 2000",
+          "work": "BBC Monitoring Africa",
+          "publisher": "Factiva",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Cabinet reshuffled",
+          "date": "10 February 2004",
+          "work": "The Herald",
+          "publisher": "Factiva",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "last": "Musengeyi",
+          "first": "Itai",
+          "title": "President Names Cabinet",
+          "date": "18 April 2005",
+          "work": "All Africa",
+          "publisher": "Factiva",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Share",
+          "first": "Felex",
+          "url": "https://www.herald.co.zw/breaking-news-president-announces-new-cabinet/",
+          "title": "Updated: New Cabinet appointed...Ministerial portfolios reduced to 22...Only 6 deputy ministers appointed",
+          "date": "1 December 2017",
+          "work": "The Herald",
+          "access-date": "2 March 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "mnangagwa cabinet"
+        },
+        {
+          "template": "members of the 5th parliament of zimbabwe"
+        },
+        {
+          "template": "zimbabwe-politician-stub"
+        }
+      ]
+    }
+  ]
+}

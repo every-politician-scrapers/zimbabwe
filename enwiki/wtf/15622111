@@ -1,0 +1,206 @@
+{
+  "title": "Sithembiso Nyoni",
+  "pageID": 15622111,
+  "categories": [
+    "20th-century births",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Living people",
+    "Members of the National Assembly of Zimbabwe",
+    "ZANU–PF politicians",
+    "Women government ministers of Zimbabwe",
+    "Women's ministers of Zimbabwe",
+    "21st-century Zimbabwean women politicians",
+    "21st-century Zimbabwean politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sithembiso Gile Gladys Nyoni (born 20 September 1949) is a Zimbabwean politician and a former Minister of Small and Medium Enterprises Development.",
+              "links": [
+                {
+                  "text": "Zimbabwean",
+                  "type": "internal",
+                  "page": "Zimbabwe"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sithembiso Gile Gladys Nyoni"
+                ]
+              }
+            },
+            {
+              "text": "She is the incumbent minister of Women and Youth Affairs."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "November 2019",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.parlzim.gov.zw/inside.aspx?mpgid=2&spid=8",
+          "title": "Parliament of Zimbabwe",
+          "access-date": "2008-02-06",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20090318145813/http://www.parlzim.gov.zw/inside.aspx?mpgid=2&spid=8",
+          "archive-date": "2009-03-18",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://allafrica.com/stories/201712010001.html",
+          "title": "Zimbabwe: New Cabinet Appointed - Ministerial Portfolios Reduced to 22 - Only 6 Deputy Ministers Appointed",
+          "publisher": "AllAfrica",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In the March 2008 parliamentary election, Nyoni was elected to the House of Assembly as the ZANU-PF candidate in Nkayi North.",
+              "links": [
+                {
+                  "text": "March 2008 parliamentary election",
+                  "type": "internal",
+                  "page": "2008 Zimbabwean parliamentary election"
+                },
+                {
+                  "text": "House of Assembly",
+                  "type": "internal",
+                  "page": "House of Assembly of Zimbabwe"
+                },
+                {
+                  "type": "internal",
+                  "page": "ZANU-PF"
+                }
+              ]
+            },
+            {
+              "text": "She received 4,634 votes against 4,234 for Moyo Talent of the Movement for Democratic Change (MDC)-Mutambara faction and 1,075 for Mlilo Thembinkosi of the MDC-Tsvangirai faction.",
+              "links": [
+                {
+                  "text": "Movement for Democratic Change",
+                  "type": "internal",
+                  "page": "Movement for Democratic Change – Mutambara"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The Herald reported on January 3, 2009, that Nyoni had been dismissed from the Cabinet earlier in the week, along with 11 other ministers, because she no longer held any seat in Parliament.",
+              "formatting": {
+                "italic": [
+                  "The Herald"
+                ]
+              }
+            },
+            {
+              "text": "On 1 December 2017 President Emmerson Mnangagwa elected a new Cabinet, Cde Sithembiso Nyoni became the new Minister of Women and Youth Affairs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Emmerson Mnangagwa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was on the United States sanctions list from 2003 until 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States sanctions"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "Sithembiso Nyoni"
+          ],
+          "template": "wikiquote"
+        },
+        {
+          "template": "mnangagwa cabinet"
+        },
+        {
+          "template": "current members of the zimbabwe house of assembly"
+        },
+        {
+          "template": "zimbabwe government ministers"
+        },
+        {
+          "template": "members of the 8th parliament of zimbabwe"
+        },
+        {
+          "template": "members of the 5th parliament of zimbabwe"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "zimbabwe-politician-stub"
+        }
+      ]
+    }
+  ]
+}

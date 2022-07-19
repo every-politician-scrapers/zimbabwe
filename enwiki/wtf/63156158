@@ -1,0 +1,133 @@
+{
+  "title": "Amon Murwira",
+  "pageID": 63156158,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "ZANU–PF politicians",
+    "Government ministers of Zimbabwe",
+    "University of Twente alumni",
+    "University of Zimbabwe alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Amon Murwira is Zimbabwe's Minister of Higher and Tertiary Education, Science and Technology Development.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zimbabwe"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Amon Murwira"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of Zanu-PF and was appointed to cabinet in 2017, after Emmerson Mnangagwa became Zimbabwe's leader.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zanu-PF"
+                },
+                {
+                  "type": "internal",
+                  "page": "Emmerson Mnangagwa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Murwira is also a lecturer in the Department of Geography and Environmental Science at the University of Zimbabwe.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Zimbabwe"
+                }
+              ]
+            },
+            {
+              "text": "He completed his postgraduate studies at the University of Twente in the Netherlands, graduating with a Master of Science in Environmental Systems Analysis and Monitoring, as well as a PhD in Information Technology and Communication.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Twente"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Zimbabwe politician",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.parlzim.gov.zw/about-parliament/who-s-who",
+          "title": "Who is Who",
+          "website": "Parliament of Zimbabwe",
+          "url-status": "live",
+          "access-date": "19 February 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.iol.co.za/news/africa/mnangagwa-names-zimbabwes-new-cabinet-12215195",
+          "title": "Mnangagwa names Zimbabwe's new cabinet",
+          "date": "1 December 2017",
+          "website": "IOL News",
+          "language": "en",
+          "url-status": "live",
+          "access-date": "2020-02-19",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.utwente.nl/en/news/2017/12/208443/itc-alumnus-amon-murwira-appointed-minister-in-zimbabwe",
+          "title": "ITC alumnus Amon Murwira appointed Minister in Zimbabwe",
+          "date": "4 December 2017",
+          "website": "Universiteit Twente",
+          "language": "en",
+          "url-status": "live",
+          "access-date": "2020-02-19",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "state": "collapsed",
+          "template": "mnangagwa cabinet"
+        },
+        {
+          "template": "zimbabwe-politician-stub"
+        }
+      ]
+    }
+  ]
+}

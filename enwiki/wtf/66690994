@@ -1,0 +1,186 @@
+{
+  "title": "Alice Mashingaidze",
+  "pageID": 66690994,
+  "categories": [
+    "1968 births",
+    "Living people",
+    "Zimbabwean women diplomats",
+    "Ambassadors of Zimbabwe to Belgium",
+    "Zimbabwean women ambassadors"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alice Mashingaidze (born 25 April 1968) is a Zimbabwean diplomat.",
+              "links": [
+                {
+                  "text": "Zimbabwean",
+                  "type": "internal",
+                  "page": "Zimbabwe"
+                },
+                {
+                  "text": "diplomat",
+                  "type": "internal",
+                  "page": "Diplomacy"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alice Mashingaidze"
+                ]
+              }
+            },
+            {
+              "text": "She is Ambassador to Sweden and former Ambassador to Belgium.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ambassador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sweden"
+                },
+                {
+                  "type": "internal",
+                  "page": "Belgium"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mashingaidze led an Africa Cultural Festival with Makandire Luckson Chezhira Chikutu.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Africa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Festival"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Zimbabwean diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "title": "The King holds formal audiences for new ambassadors - Sveriges Kungahus",
+          "url": "https://www.kungahuset.se/royalcourt/latestnews/2019/2019/thekingholdsformalaudiencesfornewambassadors.5.18cc416116d61fe304ac5a2.html",
+          "access-date": "2021-02-09",
+          "website": "www.kungahuset.se",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Herald",
+          "first": "The",
+          "title": "New envoys told to 'engage, re-engage'",
+          "url": "https://www.herald.co.zw/new-envoys-told-to-engage-re-engage/",
+          "access-date": "2021-02-09",
+          "website": "The Herald",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ministry of Foreign Affairs & International Trade - Zimbabwe Embassies",
+          "url": "http://www.zimfa.gov.zw/index.php/zimbabwe-embassies",
+          "access-date": "2021-02-09",
+          "website": "Ministry of Foreign Affairs & International Trade",
+          "language": "en-gb",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Chronicle",
+          "first": "The",
+          "title": "President appoints 15 new ambassadors",
+          "url": "https://www.chronicle.co.zw/president-appoints-15-new-ambassadors/",
+          "access-date": "2021-02-09",
+          "website": "The Chronicle",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2019-11-18",
+          "title": "Zim-Swedish Ambassador applauds cultural writer",
+          "url": "http://celebrity.co.zw/zim-swedish-ambassador-applauds-cultural-writer/",
+          "access-date": "2021-02-09",
+          "website": "Celebrity",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "zimbabwe-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Embassy of Zimbabwe in Stockholm, Sweden",
+            "links": [
+              {
+                "text": "Embassy of Zimbabwe in Stockholm, Sweden",
+                "type": "external",
+                "site": "https://embassies.info/ZimbabweanEmbassyinStockholmSweden"
+              }
+            ]
+          },
+          {
+            "text": "Alice Mashingaidze enviro",
+            "links": [
+              {
+                "text": "Alice Mashingaidze",
+                "type": "external",
+                "site": "https://www.eniro.se/alice+mashingaidze+stockholm/153102470/person"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

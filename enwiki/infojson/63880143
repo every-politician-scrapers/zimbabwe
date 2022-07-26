@@ -1,0 +1,50 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Speakers of the National Assembly of Zimbabwe"
+      ],
+      "stated_as": "Deputy Speaker of the National Assembly of Zimbabwe"
+    },
+    "P580": "2013-09-03",
+    "P582": "2018"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Zimbabwe",
+        "Mutoko North"
+      ],
+      "stated_as": "Member of the National Assembly of Zimbabwe for Mutoko North"
+    },
+    "P580": "2013-09-03",
+    "P1365": {
+      "links": [
+        "David Chapfika"
+      ],
+      "stated_as": "David Chapfika"
+    },
+    "P582": "2018",
+    "P1366": {
+      "links": [
+        "Rambidzai Nyabote"
+      ],
+      "stated_as": "Rambidzai Nyabote"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of presidents of the Senate of Zimbabwe"
+      ],
+      "stated_as": "President of the Senate of Zimbabwe"
+    },
+    "P580": "2018-09-11",
+    "P1365": {
+      "links": [
+        "Edna Madzongwe"
+      ],
+      "stated_as": "Edna Madzongwe"
+    }
+  }
+]

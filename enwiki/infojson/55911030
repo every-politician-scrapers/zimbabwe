@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Zimbabwe"
+      ],
+      "stated_as": "Second Lady of Zimbabwe"
+    },
+    "P580": "2014-12-12",
+    "P1365": {
+      "links": [
+        "Solomon Mujuru"
+      ],
+      "stated_as": "Solomon Mujuru (as Second Gentleman, 2011)"
+    },
+    "P582": "2017-11-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Marry Mubaiwa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Assembly (Zimbabwe)",
+        "Chirumanzu–Zibagwe"
+      ],
+      "stated_as": "Member of the Parliament of Zimbabwe for Chirumanzu–Zibagwe"
+    },
+    "P580": "2015-03-28",
+    "P1365": {
+      "links": [
+        "Emmerson Mnangagwa"
+      ],
+      "stated_as": "Emmerson Mnangagwa"
+    },
+    "P582": "2018-07-30",
+    "P1366": {
+      "links": [
+        "Prosper Machando"
+      ],
+      "stated_as": "Prosper Machando"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "First Lady of Zimbabwe"
+      ],
+      "stated_as": "First Lady of Zimbabwe"
+    },
+    "P580": "2017-11-24",
+    "P1365": {
+      "links": [
+        "Grace Mugabe"
+      ],
+      "stated_as": "Grace Mugabe"
+    }
+  }
+]

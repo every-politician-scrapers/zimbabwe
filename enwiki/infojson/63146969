@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Primary and Secondary Education"
+    },
+    "P580": "2017-12-01",
+    "P582": "2019-11-08",
+    "P1366": {
+      "links": [
+        "Evelyn Ndlovu"
+      ],
+      "stated_as": "Evelyn Ndlovu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Public Service, Labour and Social Welfare"
+    },
+    "P580": "2019-11-08",
+    "P1365": {
+      "links": [
+        "Sekai Nzenza"
+      ],
+      "stated_as": "Sekai Nzenza"
+    }
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of State for National Security in the President's Office (Zimbabwe)"
+      ],
+      "stated_as": "1st Minister of State for National Security"
+    },
+    "P580": "1980",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "1988",
+    "P1366": {
+      "links": [
+        "Sydney Sekeramayi"
+      ],
+      "stated_as": "Sydney Sekeramayi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Zimbabwe"
+      ],
+      "stated_as": "Member of the National Assembly of Zimbabwe"
+    },
+    "P580": "1980",
+    "P582": "2014",
+    "P1366": {
+      "links": [
+        "Auxillia Mnangagwa"
+      ],
+      "stated_as": "Auxillia Mnangagwa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Justice, Legal and Parliamentary Affairs"
+      ],
+      "stated_as": "2nd Minister of Justice, Legal and Parliamentary Affairs of Zimbabwe"
+    },
+    "P580": "1989-12-31",
+    "P1365": {
+      "links": [
+        "Edison Zvobgo"
+      ],
+      "stated_as": "Edison Zvobgo"
+    },
+    "P582": "2000-07-01",
+    "P1366": {
+      "links": [
+        "Patrick Chinamasa"
+      ],
+      "stated_as": "Patrick Chinamasa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of Parliament of Zimbabwe"
+      ],
+      "stated_as": "4th Speaker of the Parliament of Zimbabwe"
+    },
+    "P580": "2000-07-18",
+    "P1365": {
+      "links": [
+        "Cyril Ndebele"
+      ],
+      "stated_as": "Cyril Ndebele"
+    },
+    "P582": "2005-04-09",
+    "P1366": {
+      "links": [
+        "John Nkomo"
+      ],
+      "stated_as": "John Nkomo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Housing and Social Amenities (Zimbabwe)"
+      ],
+      "stated_as": "Minister of Rural Housing and Social Amenities"
+    },
+    "P580": "2005-04-09",
+    "P582": "2009-02-13",
+    "P1366": {
+      "links": [
+        "Fidelis Mhashu"
+      ],
+      "stated_as": "Fidelis Mhashu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Zimbabwe)"
+      ],
+      "stated_as": "6th Minister of Defence"
+    },
+    "P580": "2009-02-13",
+    "P1365": {
+      "links": [
+        "Sydney Sekeramayi"
+      ],
+      "stated_as": "Sydney Sekeramayi"
+    },
+    "P582": "2013-09-11",
+    "P1366": {
+      "links": [
+        "Sydney Sekeramayi"
+      ],
+      "stated_as": "Sydney Sekeramayi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Justice, Legal and Parliamentary Affairs"
+      ],
+      "stated_as": "2nd Minister of Justice, Legal and Parliamentary Affairs of Zimbabwe"
+    },
+    "P580": "2013-09-11",
+    "P1365": {
+      "links": [
+        "Patrick Chinamasa"
+      ],
+      "stated_as": "Patrick Chinamasa"
+    },
+    "P582": "2017-10-09",
+    "P1366": {
+      "links": [
+        "Happyton Bonyongwe"
+      ],
+      "stated_as": "Happyton Bonyongwe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice-President of Zimbabwe"
+      ],
+      "stated_as": "First Vice President of Zimbabwe"
+    },
+    "P580": "2014-12-12",
+    "P1365": {
+      "links": [
+        "Joice Mujuru"
+      ],
+      "stated_as": "Joice Mujuru"
+    },
+    "P582": "2017-11-06",
+    "P1366": {
+      "links": [
+        "Constantine Chiwenga"
+      ],
+      "stated_as": "Constantine Chiwenga"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "ZANU-PF"
+      ],
+      "stated_as": "President and First Secretary of ZANU-PF"
+    },
+    "P580": "2017-11-19",
+    "P1365": {
+      "links": [
+        "Robert Mugabe"
+      ],
+      "stated_as": "Robert Mugabe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Zimbabwe"
+      ],
+      "stated_as": "3rd President of Zimbabwe"
+    },
+    "P580": "2017-11-24",
+    "P1365": {
+      "links": [
+        "Robert Mugabe"
+      ],
+      "stated_as": "Robert Mugabe"
+    }
+  }
+]

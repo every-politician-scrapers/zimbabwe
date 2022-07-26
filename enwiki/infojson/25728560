@@ -1,0 +1,107 @@
+[
+  {
+    "office": {
+      "links": [
+        "Zimbabwe National Army"
+      ],
+      "stated_as": "Commander of the Zimbabwe National Army"
+    },
+    "P580": "1994",
+    "P582": "2003-12",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Philip Valerio Sibanda"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Zimbabwe Defence Forces"
+      ],
+      "stated_as": "Commander of the Zimbabwe Defence Forces"
+    },
+    "P580": "2003-12",
+    "P1365": {
+      "links": [
+        "Vitalis Zvinavashe"
+      ],
+      "stated_as": "Vitalis Zvinavashe"
+    },
+    "P582": "2017-12-19",
+    "P1366": {
+      "links": [
+        "Philip Valerio Sibanda"
+      ],
+      "stated_as": "Philip Valerio Sibanda"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Zimbabwean African National Union-Patriotic Front"
+      ],
+      "stated_as": "Vice President and Second Secretary of the Zimbabwean African National Union-Patriotic Front (ZANU–PF)"
+    },
+    "P580": "2017-12-23",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Emmerson Mnangagwa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice-President of Zimbabwe"
+      ],
+      "stated_as": "First Vice President of Zimbabwe"
+    },
+    "P580": "2017-12-28",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Emmerson Mnangagwa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Zimbabwe)"
+      ],
+      "stated_as": "Minister of Defence and War Veterans"
+    },
+    "P580": "2017-12-29",
+    "P1365": {
+      "links": [
+        "Kembo Mohadi"
+      ],
+      "stated_as": "Kembo Mohadi"
+    },
+    "P582": "2018-09-11",
+    "P1366": {
+      "links": [
+        "Oppah Muchinguri"
+      ],
+      "stated_as": "Oppah Muchinguri-Kashiri"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health and Child Care (Zimbabwe)"
+      ],
+      "stated_as": "Minister of Health and Child Care"
+    },
+    "P580": "2020-08-04",
+    "P1365": {
+      "links": [
+        "Obadiah Moyo"
+      ],
+      "stated_as": "Obadiah Moyo"
+    }
+  }
+]

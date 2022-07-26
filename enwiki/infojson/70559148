@@ -1,0 +1,21 @@
+[
+  {
+    "office": {
+      "links": [
+        "High Court of Zimbabwe"
+      ],
+      "stated_as": "Judge of the High Court of Zimbabwe"
+    },
+    "P580": "1998-08",
+    "P582": "2002-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Supreme Court of Zimbabwe"
+      ],
+      "stated_as": "Justice of the Supreme Court of Zimbabwe"
+    },
+    "P580": "2002-11-01"
+  }
+]

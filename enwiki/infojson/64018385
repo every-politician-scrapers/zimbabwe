@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Zimbabwe"
+      ],
+      "stated_as": "Member of the National Assembly of Zimbabwe"
+    },
+    "P580": "2018-09-05",
+    "P1365": {
+      "links": [
+        "Peter Haritatos"
+      ],
+      "stated_as": "Peter Haritatos"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Agriculture (Zimbabwe)"
+      ],
+      "stated_as": "Deputy Minister for Lands, Agriculture, Water, Climate and Rural Resettlement"
+    },
+    "P580": "2018-09-11",
+    "P1365": {
+      "links": [
+        "Davis Marapira"
+      ],
+      "stated_as": "Davis Marapira"
+    }
+  }
+]

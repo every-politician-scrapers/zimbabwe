@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Rhodesia National Army"
+      ],
+      "stated_as": "Commander of the Rhodesia National Army"
+    },
+    "P580": "2003-12",
+    "P1365": {
+      "links": [
+        "Constantino Chiwenga"
+      ],
+      "stated_as": "Constantino Chiwenga"
+    },
+    "P582": "2017-12-18"
+  },
+  {
+    "office": {
+      "links": [
+        "Zimbabwe Defence Forces"
+      ],
+      "stated_as": "Commander of the Zimbabwe Defence Forces"
+    },
+    "P580": "2017-12-18",
+    "P1365": {
+      "links": [
+        "Constantino Chiwenga"
+      ],
+      "stated_as": "Constantino Chiwenga"
+    }
+  }
+]

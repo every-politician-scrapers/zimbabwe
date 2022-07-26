@@ -1,0 +1,122 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Head, Rhodesian Liaison Office, Libreville, Gabon"
+    },
+    "P580": "1975-10",
+    "P582": "1979-11"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Director, Information and Research Bureau, Ministry of Foreign Affairs Headquarters"
+    },
+    "P580": "1982-02",
+    "P582": "1987-05"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Trade Commissioner and Head of Mission, Zimbabwe Trade Mission, later, Zimbabwe Representative Office, Johannesburg, South Africa"
+    },
+    "P580": "1987-05",
+    "P582": "1994-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Italy",
+        "United Nations",
+        "Food and Agriculture Organization",
+        "World Food Programme",
+        "International Fund for Agricultural Development"
+      ],
+      "stated_as": "Ambassador of Zimbabwe to Italy and Permanent Representative of Zimbabwe to the United Nations Food and Agriculture Organization, World Food Programme, and International Fund for Agricultural Development"
+    },
+    "P580": "1994-07",
+    "P582": "1999-05"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Industry and International Trade"
+      ],
+      "stated_as": "Permanent Secretary for the Ministry of Industry and International Trade"
+    },
+    "P580": "1999-09",
+    "P582": "2002-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Japan",
+        "South Korea"
+      ],
+      "stated_as": "Ambassador of Zimbabwe to Japan and South Korea"
+    },
+    "P580": "2003-01",
+    "P1365": {
+      "links": [
+        "Andrew Hama Mtetwa"
+      ],
+      "stated_as": "Andrew Hama Mtetwa"
+    },
+    "P582": "2014-05",
+    "P1366": {
+      "links": [
+        "Titus Mehliswa Jonathan Abu-Basutu"
+      ],
+      "stated_as": "Titus Mehliswa Jonathan Abu-Basutu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Zimbabwe",
+        "Cabinet of Zimbabwe",
+        "Head - Corporate Governance, Parastatal Reform and Delivery Unit"
+      ],
+      "stated_as": "Permanent Secretary in the Office of the President and Cabinet of Zimbabwe Head - Corporate Governance, Parastatal Reform and Delivery Unit"
+    },
+    "P580": "2014-09",
+    "P582": "2018-09",
+    "P1366": {
+      "links": [
+        "Willard Manungo"
+      ],
+      "stated_as": "Willard Manungo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Special Advisor to the Minister of Foreign Affairs and International Trade of the Republic of Zimbabwe."
+    },
+    "P580": "2018-09",
+    "P582": "2021-04",
+    "P1366": {
+      "links": [
+        "Grace Tsitsi Mutandiro"
+      ],
+      "stated_as": "Grace Tsitsi Mutandiro"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Permanent Representative of Zimbabwe to the United Nations and other international organisations in Geneva, Switzerland"
+    },
+    "P580": "2021-04"
+  }
+]

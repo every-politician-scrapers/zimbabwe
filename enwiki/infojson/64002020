@@ -1,0 +1,42 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of mayors of Harare"
+      ],
+      "stated_as": "Deputy Mayor of Harare"
+    },
+    "P580": "2008",
+    "P582": "2013",
+    "P1366": {
+      "links": [
+        "Thomas Muzuva"
+      ],
+      "stated_as": "Thomas Muzuva"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Harare City Council"
+      ],
+      "stated_as": "Member of the Harare City Council from Ward 27"
+    },
+    "P580": "2008"
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Harare"
+      ],
+      "stated_as": "Mayor of Harare"
+    },
+    "P580": "2018-09-03",
+    "P1365": {
+      "links": [
+        "Bernard Manyenyeni"
+      ],
+      "stated_as": "Bernard Manyenyeni"
+    }
+  }
+]
